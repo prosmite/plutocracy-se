@@ -1,0 +1,2414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui>
+    <achievement_window>
+        <text id="achievement" need_translate="true" value=""/>
+        <text id="achievement_is_continious" need_translate="true" value=""/>
+        <text id="achievement_is_not_continious" need_translate="true" value=""/>
+        <text id="bonus" need_translate="true" value=""/>
+        <text id="collector_completed_hint" need_translate="true" value=""/>
+        <text id="collector_hint" need_translate="true" value=""/>
+        <text id="economic_achievements" need_translate="true" value=""/>
+        <text id="in_developing" need_translate="true" value=""/>
+        <text id="lock_achievement" need_translate="true" value=""/>
+        <text id="next" need_translate="true" value=""/>
+        <text id="now" need_translate="true" value=""/>
+        <text id="opened_achievements" need_translate="true" value=""/>
+        <text id="personal_achievements" need_translate="true" value=""/>
+        <text id="politics_achievements" need_translate="true" value=""/>
+        <text id="progress" need_translate="true" value=""/>
+        <text id="show" need_translate="true" value=""/>
+        <text id="themis_master_completed_hint" need_translate="true" value=""/>
+        <text id="themis_master_hint" need_translate="true" value=""/>
+        <text id="unlock_achievement" need_translate="true" value=""/>
+    </achievement_window>
+    <agent_apply_popup>
+        <text id="agent_skill_description" need_translate="true" value=""/>
+        <text id="skill_not_learned" need_translate="true" value=""/>
+    </agent_apply_popup>
+    <agent_card>
+        <text id="agent_unlock_cost_header" need_translate="true" value=""/>
+        <text id="agent_unlock_cost_text" need_translate="true" value=""/>
+        <text id="explore" need_translate="true" value=""/>
+        <text id="hire" need_translate="true" value=""/>
+        <text id="level" need_translate="true" value=""/>
+    </agent_card>
+    <agent_dossier>
+        <text id="agent_dossier" need_translate="true" value=""/>
+        <text id="biography" need_translate="true" value=""/>
+        <text id="information" need_translate="true" value=""/>
+        <text id="level" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="skills" need_translate="true" value=""/>
+    </agent_dossier>
+    <agent_research>
+        <text id="accident_goal" need_translate="true" value=""/>
+        <text id="agent_effect" need_translate="true" value=""/>
+        <text id="agent_fail" need_translate="true" value=""/>
+        <text id="agent_success" need_translate="true" value=""/>
+        <text id="apply" need_translate="true" value=""/>
+        <text id="apply_agent" need_translate="true" value=""/>
+        <text id="avaliable_influence" need_translate="true" value=""/>
+        <text id="back" need_translate="true" value=""/>
+        <text id="blocked_hire_button_reason1" need_translate="true" value=""/>
+        <text id="cancel_skill" need_translate="true" value=""/>
+        <text id="days_icon_hint" need_translate="true" value=""/>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="fail_chance" need_translate="true" value=""/>
+        <text id="fail_chance_icon_hint" need_translate="true" value=""/>
+        <text id="greetings_header" need_translate="true" value=""/>
+        <text id="greetings_text" need_translate="true" value=""/>
+        <text id="hire" need_translate="true" value=""/>
+        <text id="learn_skill" need_translate="true" value=""/>
+        <text id="low_influence" need_translate="true" value=""/>
+        <text id="low_level" need_translate="true" value=""/>
+        <text id="mission_agent" need_translate="true" value=""/>
+        <text id="mission_cost" need_translate="true" value=""/>
+        <text id="mission_goal" need_translate="true" value=""/>
+        <text id="money_cost" need_translate="true" value=""/>
+        <text id="money_icon_hint" need_translate="true" value=""/>
+        <text id="needed_influence" need_translate="true" value=""/>
+        <text id="next_level" need_translate="true" value=""/>
+        <text id="no_unlearned_skills" need_translate="true" value=""/>
+        <text id="prestige_cost" need_translate="true" value=""/>
+        <text id="priest_goal" need_translate="true" value=""/>
+        <text id="required" need_translate="true" value=""/>
+        <text id="skill_cost" need_translate="true" value=""/>
+        <text id="skill_learn_cost" need_translate="true" value=""/>
+        <text id="skill_use_cost" need_translate="true" value=""/>
+        <text id="skills" need_translate="true" value=""/>
+        <text id="spent_money" need_translate="true" value=""/>
+        <text id="spy_goal" need_translate="true" value=""/>
+        <text id="strike_goal" need_translate="true" value=""/>
+        <text id="success_chance" need_translate="true" value=""/>
+        <text id="success_chance_icon_hint" need_translate="true" value=""/>
+        <text id="tab_companies" need_translate="true" value=""/>
+        <text id="tab_power" need_translate="true" value=""/>
+        <text id="tab_skills" need_translate="true" value=""/>
+        <text id="trust" need_translate="true" value=""/>
+        <text id="undefined_agent_number" need_translate="true" value=""/>
+        <text id="use_risks" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </agent_research>
+    <agent_result_popup>
+        <text id="days" need_translate="true" value=""/>
+        <text id="effects" need_translate="true" value=""/>
+        <text id="fail_result" need_translate="true" value=""/>
+        <text id="mission_cost" need_translate="true" value=""/>
+        <text id="success_result" need_translate="true" value=""/>
+        <text id="suspect_result" need_translate="true" value=""/>
+    </agent_result_popup>
+    <agent_skill>
+        <text id="apply" need_translate="true" value=""/>
+    </agent_skill>
+    <agent_skills_window>
+        <text id="agents_skills" need_translate="true" value=""/>
+        <text id="pay" need_translate="true" value=""/>
+    </agent_skills_window>
+    <agents_board>
+        <text id="agents_board" need_translate="true" value=""/>
+        <text id="assistants" need_translate="true" value=""/>
+    </agents_board>
+    <agents_handler>
+        <text id="agent_serve_a_term_of_inprisonment" need_translate="true" value=""/>
+        <text id="agent_was_used" need_translate="true" value=""/>
+        <text id="calculate_on_agent_level" need_translate="true" value=""/>
+        <text id="credit_pay_off" need_translate="true" value=""/>
+        <text id="credit_payment_arrerage" need_translate="true" value=""/>
+        <text id="get_agent_text" need_translate="true" value=""/>
+        <text id="skill_temporarily_blocked" need_translate="true" value=""/>
+    </agents_handler>
+    <agents_window>
+        <text id="agents" need_translate="true" value=""/>
+        <text id="influence_agents" need_translate="true" value=""/>
+    </agents_window>
+    <ambition_popup>
+        <text id="conditions" need_translate="true" value=""/>
+        <text id="days_left" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="loyality" need_translate="true" value=""/>
+        <text id="loyality_change" need_translate="true" value=""/>
+        <text id="shares_count" need_translate="true" value=""/>
+    </ambition_popup>
+    <any_words>
+        <company>
+            <text id="0" need_translate="true" value=""/>
+            <text id="1" need_translate="true" value=""/>
+            <text id="2" need_translate="true" value=""/>
+            <text id="3" need_translate="true" value=""/>
+        </company>
+        <text id="unrelized" need_translate="true" value=""/>
+    </any_words>
+    <assistant_popup>
+        <text id="assistant_info" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
+        <text id="select" need_translate="true" value=""/>
+    </assistant_popup>
+    <assistant_window>
+        <text id="assistant_already_hired_to_company" need_translate="true" value=""/>
+        <text id="assistant_control_company" need_translate="true" value=""/>
+        <text id="assistant_in_prison" need_translate="true" value=""/>
+        <text id="button_hint_header" need_translate="true" value=""/>
+        <text id="button_hint_text" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="diplomacy_hint_header" need_translate="true" value=""/>
+        <text id="diplomacy_hint_text" need_translate="true" value=""/>
+        <text id="economics" need_translate="true" value=""/>
+        <text id="economics_hint_header" need_translate="true" value=""/>
+        <text id="economics_hint_text" need_translate="true" value=""/>
+        <text id="filter_text_0" need_translate="true" value=""/>
+        <text id="filter_text_1" need_translate="true" value=""/>
+        <text id="gold_parachute" need_translate="true" value=""/>
+        <text id="gold_parachute_hint_header" need_translate="true" value=""/>
+        <text id="gold_parachute_hint_text" need_translate="true" value=""/>
+        <text id="hire_assistant_hint_header" need_translate="true" value=""/>
+        <text id="hire_assistant_hint_text" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_hint_header" need_translate="true" value=""/>
+        <text id="influence_hint_text" need_translate="true" value=""/>
+        <text id="influence_skill" need_translate="true" value=""/>
+        <text id="influence_skill_hint_header" need_translate="true" value=""/>
+        <text id="influence_skill_hint_text" need_translate="true" value=""/>
+        <text id="no_avaliable_assistants" need_translate="true" value=""/>
+        <text id="no_hired_assistants" need_translate="true" value=""/>
+        <text id="not_enough_money_to_fire" need_translate="true" value=""/>
+        <text id="person" need_translate="true" value=""/>
+        <text id="player_in_different_position" need_translate="true" value=""/>
+        <text id="politics" need_translate="true" value=""/>
+        <text id="politics_hint_header" need_translate="true" value=""/>
+        <text id="politics_hint_text" need_translate="true" value=""/>
+        <text id="power_cost" need_translate="true" value=""/>
+        <text id="power_cost_hint_header" need_translate="true" value=""/>
+        <text id="power_cost_hint_text" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="reputation_hint_header" need_translate="true" value=""/>
+        <text id="reputation_hint_text" need_translate="true" value=""/>
+        <text id="sabotage_popup_header" need_translate="true" value=""/>
+        <text id="sabotage_popup_text" need_translate="true" value=""/>
+        <text id="salary" need_translate="true" value=""/>
+        <text id="salary_hint_header" need_translate="true" value=""/>
+        <text id="salary_hint_text" need_translate="true" value=""/>
+    </assistant_window>
+    <auction_dialog>
+        <text id="auction" need_translate="true" value=""/>
+        <text id="auction_members" need_translate="true" value=""/>
+        <text id="bid" need_translate="true" value=""/>
+        <text id="confirm_exit" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="exit_no" need_translate="true" value=""/>
+        <text id="exit_yes" need_translate="true" value=""/>
+        <text id="make_a_step" need_translate="true" value=""/>
+        <text id="not_enough_action_points" need_translate="true" value=""/>
+        <text id="not_enough_money" need_translate="true" value=""/>
+        <text id="text_1" need_translate="true" value=""/>
+        <text id="text_2" need_translate="true" value=""/>
+        <text id="text_3" need_translate="true" value=""/>
+        <text id="text_win" need_translate="true" value=""/>
+    </auction_dialog>
+    <auction_popups>
+        <text id="assistent_fail" need_translate="true" value=""/>
+        <text id="assistent_question" need_translate="true" value=""/>
+        <text id="assistent_win" need_translate="true" value=""/>
+        <text id="auc_fail" need_translate="true" value=""/>
+        <text id="auc_win" need_translate="true" value=""/>
+        <text id="base_price" need_translate="true" value=""/>
+        <text id="by_price" need_translate="true" value=""/>
+        <text id="days_left_to_event" need_translate="true" value=""/>
+        <text id="demand" need_translate="true" value=""/>
+        <text id="market_price" need_translate="true" value=""/>
+        <text id="max_sell_price" need_translate="true" value=""/>
+        <text id="min_sell_price" need_translate="true" value=""/>
+        <text id="player_question" need_translate="true" value=""/>
+        <text id="profit_by_step" need_translate="true" value=""/>
+        <text id="sell_cancel" need_translate="true" value=""/>
+        <text id="sell_ok" need_translate="true" value=""/>
+        <text id="start_price" need_translate="true" value=""/>
+        <text id="you_are_sure" need_translate="true" value=""/>
+    </auction_popups>
+    <auction_result>
+        <text id="money" need_translate="true" value=""/>
+        <text id="ok" need_translate="true" value=""/>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="you_lose_auction" need_translate="true" value=""/>
+        <text id="you_win_auction" need_translate="true" value=""/>
+    </auction_result>
+    <auction_window>
+        <text id="demand" need_translate="true" value=""/>
+        <text id="expenses_per_step" need_translate="true" value=""/>
+        <text id="played_lots" need_translate="true" value=""/>
+        <text id="prestige_per_step" need_translate="true" value=""/>
+        <text id="run" need_translate="true" value=""/>
+        <text id="sold" need_translate="true" value=""/>
+        <text id="start_price" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </auction_window>
+    <text id="autosave" need_translate="true" value=""/>
+    <bankrupt_window>
+        <text id="allert_bankrupt" need_translate="true" value=""/>
+        <text id="close" need_translate="true" value=""/>
+        <text id="fix_sotuation" need_translate="true" value=""/>
+        <text id="message_bankrupt" need_translate="true" value=""/>
+        <text id="skip" need_translate="true" value=""/>
+    </bankrupt_window>
+    <bonuse_roulette>
+        <text id="bonus" need_translate="true" value=""/>
+        <text id="close" need_translate="true" value=""/>
+        <text id="no_effect" need_translate="true" value=""/>
+        <text id="serial_failed_talks_penalty" need_translate="true" value=""/>
+        <text id="serial_successed_talks_bonus" need_translate="true" value=""/>
+        <text id="start" need_translate="true" value=""/>
+        <text id="stop" need_translate="true" value=""/>
+    </bonuse_roulette>
+    <border_button>
+        <text id="button" need_translate="true" value=""/>
+    </border_button>
+    <broker_window>
+        <text id="blocked_button_hint" need_translate="true" value=""/>
+        <text id="broker_coeff" need_translate="true" value=""/>
+        <text id="condition" need_translate="true" value=""/>
+        <text id="sell" need_translate="true" value=""/>
+        <text id="selling_shares_to_broker" need_translate="true" value=""/>
+        <text id="shares_count" need_translate="true" value=""/>
+        <text id="total_sum" need_translate="true" value=""/>
+    </broker_window>
+    <cabinet_window>
+        <text id="raut_warning" need_translate="true" value=""/>
+        <text id="raut_warning_detail" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </cabinet_window>
+    <cancel_event_popup>
+        <text id="cancel_event" need_translate="true" value=""/>
+        <text id="cancel_negotiation" need_translate="true" value=""/>
+        <text id="cancel_question" need_translate="true" value=""/>
+        <text id="cancel_result_negotiation" need_translate="true" value=""/>
+        <text id="cancel_result_relation_rout" need_translate="true" value=""/>
+        <text id="cancel_result_relation_travel" need_translate="true" value=""/>
+        <text id="cancel_result_reputation_rout" need_translate="true" value=""/>
+        <text id="cancel_result_reputation_travel" need_translate="true" value=""/>
+        <text id="cancel_rout" need_translate="true" value=""/>
+        <text id="popup_no_button" need_translate="true" value=""/>
+        <text id="popup_ok_button" need_translate="true" value=""/>
+        <text id="popup_yes_button" need_translate="true" value=""/>
+        <text id="travel_no_button" need_translate="true" value=""/>
+        <text id="travel_question" need_translate="true" value=""/>
+        <text id="travel_yes_button" need_translate="true" value=""/>
+    </cancel_event_popup>
+    <cancel_negotiation_popup>
+        <text id="alco_header" need_translate="true" value=""/>
+        <text id="alco_text" need_translate="true" value=""/>
+        <text id="button_negative_hover" need_translate="true" value=""/>
+        <text id="button_negative_text" need_translate="true" value=""/>
+        <text id="button_positive_hover" need_translate="true" value=""/>
+        <text id="button_positive_text" need_translate="true" value=""/>
+        <text id="header" need_translate="true" value=""/>
+        <text id="no" need_translate="true" value=""/>
+        <text id="text" need_translate="true" value=""/>
+        <text id="yes" need_translate="true" value=""/>
+    </cancel_negotiation_popup>
+    <cap_block>
+        <text id="loading" need_translate="true" value=""/>
+        <text id="press_any_key_to_continue" need_translate="true" value=""/>
+    </cap_block>
+    <circle_progress_bar>
+        <text id="xp" need_translate="true" value=""/>
+    </circle_progress_bar>
+    <collections_window>
+        <text id="auc_price_2" need_translate="true" value=""/>
+        <text id="buy" need_translate="true" value=""/>
+        <text id="buy_price" need_translate="true" value=""/>
+        <text id="buy_price_2" need_translate="true" value=""/>
+        <text id="demand" need_translate="true" value=""/>
+        <text id="description" need_translate="true" value=""/>
+        <text id="inform" need_translate="true" value=""/>
+        <text id="market_price" need_translate="true" value=""/>
+        <text id="market_price_2" need_translate="true" value=""/>
+        <text id="no_money_to_buy_hint_header" need_translate="true" value=""/>
+        <text id="no_money_to_buy_hint_text" need_translate="true" value=""/>
+        <text id="profit_by_all" need_translate="true" value=""/>
+        <text id="profit_by_step" need_translate="true" value=""/>
+        <text id="sale" need_translate="true" value=""/>
+        <text id="sale_price" need_translate="true" value=""/>
+    </collections_window>
+    <companies_map>
+        <text id="alert" need_translate="true" value=""/>
+        <text id="alert_message" need_translate="true" value=""/>
+        <text id="information" need_translate="true" value=""/>
+        <text id="map" need_translate="true" value=""/>
+        <text id="no_companies_in_this_state" need_translate="true" value=""/>
+        <text id="not_enough_action_points" need_translate="true" value=""/>
+        <text id="not_enough_money" need_translate="true" value=""/>
+        <text id="oops" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+    </companies_map>
+    <companies_table>
+        <text id="capitalization" need_translate="true" value=""/>
+        <text id="companies_list" need_translate="true" value=""/>
+        <text id="factory_list" need_translate="true" value=""/>
+        <text id="magoritory" need_translate="true" value=""/>
+        <text id="margin" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="no_companies_in_this_state" need_translate="true" value=""/>
+        <text id="oops" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="profitability" need_translate="true" value=""/>
+        <text id="size" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="stock" need_translate="true" value=""/>
+        <text id="stock_not_avaliable" need_translate="true" value=""/>
+        <text id="type" need_translate="true" value=""/>
+    </companies_table>
+    <company_event>
+        <text id="accident_header" need_translate="true" value=""/>
+        <text id="accident_text" need_translate="true" value=""/>
+        <text id="agree" need_translate="true" value=""/>
+        <text id="decide" need_translate="true" value=""/>
+        <text id="decline" need_translate="true" value=""/>
+        <text id="effects" need_translate="true" value=""/>
+        <text id="negative_result_accident" need_translate="true" value=""/>
+        <text id="negative_result_strike" need_translate="true" value=""/>
+        <text id="positive_result_accident" need_translate="true" value=""/>
+        <text id="positive_result_salary" need_translate="true" value=""/>
+        <text id="positive_result_working_hours" need_translate="true" value=""/>
+        <text id="strike_header" need_translate="true" value=""/>
+        <text id="strike_text_salary" need_translate="true" value=""/>
+        <text id="strike_text_working_hours" need_translate="true" value=""/>
+    </company_event>
+    <company_handler>
+        <text id="accident_risk" need_translate="true" value=""/>
+        <text id="administrative_expenses" need_translate="true" value=""/>
+        <text id="adress_generation_is_impossible" need_translate="true" value=""/>
+        <text id="available_primary" need_translate="true" value=""/>
+        <text id="available_products" need_translate="true" value=""/>
+        <text id="base_productivity" need_translate="true" value=""/>
+        <text id="capitalization" need_translate="true" value=""/>
+        <text id="company_name_is_inaccessible" need_translate="true" value=""/>
+        <text id="expenses" need_translate="true" value=""/>
+        <text id="fact_productivity" need_translate="true" value=""/>
+        <text id="federal_tax" need_translate="true" value=""/>
+        <text id="goodwill" need_translate="true" value=""/>
+        <text id="infrastructure" need_translate="true" value=""/>
+        <text id="logistics" need_translate="true" value=""/>
+        <text id="margin" need_translate="true" value=""/>
+        <text id="market_part" need_translate="true" value=""/>
+        <text id="motivation" need_translate="true" value=""/>
+        <text id="not_enough_place_for_new_company" need_translate="true" value=""/>
+        <text id="other_countries_export" need_translate="true" value=""/>
+        <text id="other_countries_import" need_translate="true" value=""/>
+        <text id="primary_to_secondary" need_translate="true" value=""/>
+        <text id="proceeds" need_translate="true" value=""/>
+        <text id="product_price" need_translate="true" value=""/>
+        <text id="production_expenses" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="profitability" need_translate="true" value=""/>
+        <text id="salary" need_translate="true" value=""/>
+        <text id="share_fair_price" need_translate="true" value=""/>
+        <text id="state_tax" need_translate="true" value=""/>
+        <text id="strike_risk" need_translate="true" value=""/>
+        <text id="technologies" need_translate="true" value=""/>
+        <text id="workers_count" need_translate="true" value=""/>
+        <text id="working_condition" need_translate="true" value=""/>
+        <text id="working_hours" need_translate="true" value=""/>
+        <text id="workplaces_count" need_translate="true" value=""/>
+    </company_handler>
+    <company_info_panel>
+        <text id="branch" need_translate="true" value=""/>
+        <text id="capitalization" need_translate="true" value=""/>
+        <text id="company_type" need_translate="true" value=""/>
+        <text id="control" need_translate="true" value=""/>
+        <text id="current_state" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="director" need_translate="true" value=""/>
+        <text id="dividends_per_share" need_translate="true" value=""/>
+        <hints>
+            <text id="h_1" need_translate="true" value=""/>
+            <text id="h_2" need_translate="true" value=""/>
+            <text id="h_3" need_translate="true" value=""/>
+            <text id="t_1" need_translate="true" value=""/>
+            <text id="t_2" need_translate="true" value=""/>
+            <text id="t_3" need_translate="true" value=""/>
+        </hints>
+        <text id="profit_margin" need_translate="true" value=""/>
+        <text id="profitability" need_translate="true" value=""/>
+        <text id="roi" need_translate="true" value=""/>
+        <text id="scale_of_factory" need_translate="true" value=""/>
+        <text id="share_fair_price" need_translate="true" value=""/>
+        <text id="shareholder" need_translate="true" value=""/>
+        <text id="shares_portion" need_translate="true" value=""/>
+        <text id="year_roi" need_translate="true" value=""/>
+    </company_info_panel>
+    <company_window>
+        <text id="action" need_translate="true" value=""/>
+        <text id="ambitions" need_translate="true" value=""/>
+        <text id="bank" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="company" need_translate="true" value=""/>
+        <text id="company_shareholders" need_translate="true" value=""/>
+        <text id="contracts" need_translate="true" value=""/>
+        <text id="control" need_translate="true" value=""/>
+        <text id="deal_chance" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="details" need_translate="true" value=""/>
+        <text id="detective_applied" need_translate="true" value=""/>
+        <text id="detective_not_applied" need_translate="true" value=""/>
+        <text id="diplomacy_skill" need_translate="true" value=""/>
+        <text id="diplomacy_skill_hint_header" need_translate="true" value=""/>
+        <text id="diplomacy_skill_hint_text" need_translate="true" value=""/>
+        <text id="employ_director" need_translate="true" value=""/>
+        <text id="employ_director_disabled" need_translate="true" value=""/>
+        <text id="employ_director_no_control" need_translate="true" value=""/>
+        <hints>
+            <text id="h_1" need_translate="true" value=""/>
+            <text id="h_2" need_translate="true" value=""/>
+            <text id="h_3" need_translate="true" value=""/>
+            <text id="h_4" need_translate="true" value=""/>
+            <text id="h_5" need_translate="true" value=""/>
+            <text id="h_6" need_translate="true" value=""/>
+            <text id="h_7" need_translate="true" value=""/>
+            <text id="t_1" need_translate="true" value=""/>
+            <text id="t_2" need_translate="true" value=""/>
+            <text id="t_3" need_translate="true" value=""/>
+            <text id="t_4" need_translate="true" value=""/>
+            <text id="t_5" need_translate="true" value=""/>
+            <text id="t_6" need_translate="true" value=""/>
+            <text id="t_7" need_translate="true" value=""/>
+        </hints>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_cost_description" need_translate="true" value=""/>
+        <text id="influence_cost_description_new" need_translate="true" value=""/>
+        <text id="influence_cost_header" need_translate="true" value=""/>
+        <text id="interest" need_translate="true" value=""/>
+        <text id="interest_bar" need_translate="true" value=""/>
+        <text id="leadership" need_translate="true" value=""/>
+        <text id="leisure" need_translate="true" value=""/>
+        <text id="max_share_price" need_translate="true" value=""/>
+        <text id="negotiation_days" need_translate="true" value=""/>
+        <text id="orders" need_translate="true" value=""/>
+        <text id="orders_disabled" need_translate="true" value=""/>
+        <text id="orders_no_director" need_translate="true" value=""/>
+        <text id="persistence" need_translate="true" value=""/>
+        <text id="player_is_busy" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="relation" need_translate="true" value=""/>
+        <text id="relation_status" need_translate="true" value=""/>
+        <text id="repaycredit" need_translate="true" value=""/>
+        <text id="repaycredit_disabled" need_translate="true" value=""/>
+        <text id="repaycredit_no_money" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="reputation_hint_header" need_translate="true" value=""/>
+        <text id="reputation_hint_text" need_translate="true" value=""/>
+        <text id="roi" need_translate="true" value=""/>
+        <text id="rounds" need_translate="true" value=""/>
+        <text id="rounds_hint_header" need_translate="true" value=""/>
+        <text id="rounds_hint_text" need_translate="true" value=""/>
+        <text id="safety_stock_part" need_translate="true" value=""/>
+        <text id="share_price_popup_player_text" need_translate="true" value=""/>
+        <text id="share_price_popup_text" need_translate="true" value=""/>
+        <text id="shareholder" need_translate="true" value=""/>
+        <text id="shareholders" need_translate="true" value=""/>
+        <text id="show_company" need_translate="true" value=""/>
+        <text id="specifics" need_translate="true" value=""/>
+        <text id="statistics" need_translate="true" value=""/>
+        <text id="statistics_window_title" need_translate="true" value=""/>
+        <text id="takecredit" need_translate="true" value=""/>
+        <text id="technologies" need_translate="true" value=""/>
+        <text id="timer_is_active" need_translate="true" value=""/>
+        <text id="use_agent" need_translate="true" value=""/>
+        <text id="use_agent_accident" need_translate="true" value=""/>
+        <text id="use_agent_disabled" need_translate="true" value=""/>
+        <text id="use_agent_no_agents" need_translate="true" value=""/>
+        <text id="use_agent_priest" need_translate="true" value=""/>
+        <text id="use_agent_spy" need_translate="true" value=""/>
+        <text id="use_agent_strike" need_translate="true" value=""/>
+    </company_window>
+    <control>
+        <building_detail>
+            <text id="building_days" need_translate="true" value=""/>
+            <text id="building_price" need_translate="true" value=""/>
+            <text id="buildings_count" need_translate="true" value=""/>
+            <text id="control" need_translate="true" value=""/>
+            <text id="control_workers" need_translate="true" value=""/>
+            <text id="field" need_translate="true" value=""/>
+            <text id="filled" need_translate="true" value=""/>
+            <text id="in_safe" need_translate="true" value=""/>
+            <text id="logistic" need_translate="true" value=""/>
+            <text id="maintenance" need_translate="true" value=""/>
+            <text id="plan_producing" need_translate="true" value=""/>
+            <text id="produce_workplaces" need_translate="true" value=""/>
+            <text id="producing_resource" need_translate="true" value=""/>
+            <text id="security" need_translate="true" value=""/>
+            <text id="total_maintenance" need_translate="true" value=""/>
+            <text id="transit_volume" need_translate="true" value=""/>
+            <text id="workers" need_translate="true" value=""/>
+            <text id="workplaces" need_translate="true" value=""/>
+        </building_detail>
+        <building_types>
+            <text id="oil" need_translate="true" value=""/>
+            <text id="store" need_translate="true" value=""/>
+        </building_types>
+        <buildings>
+            <text id="administration" need_translate="true" value=""/>
+            <text id="barrack" need_translate="true" value=""/>
+            <text id="logistic" need_translate="true" value=""/>
+            <text id="oil_pump" need_translate="true" value=""/>
+            <text id="oil_storage" need_translate="true" value=""/>
+            <text id="oil_sump" need_translate="true" value=""/>
+            <text id="security" need_translate="true" value=""/>
+            <text id="tanks" need_translate="true" value=""/>
+        </buildings>
+        <window>
+            <text id="accident_risk" need_translate="true" value=""/>
+            <text id="apply" need_translate="true" value=""/>
+            <text id="buildings" need_translate="true" value=""/>
+            <text id="built_buildings" need_translate="true" value=""/>
+            <text id="constructing_buildings" need_translate="true" value=""/>
+            <text id="days_left" need_translate="true" value=""/>
+            <text id="empty_queue" need_translate="true" value=""/>
+            <text id="improve" need_translate="true" value=""/>
+            <text id="improvements" need_translate="true" value=""/>
+            <text id="process_constructing" need_translate="true" value=""/>
+            <text id="settings_details" need_translate="true" value=""/>
+            <text id="state" need_translate="true" value=""/>
+            <text id="strike_risk" need_translate="true" value=""/>
+            <text id="wait" need_translate="true" value=""/>
+            <text id="workers" need_translate="true" value=""/>
+            <text id="working_hours" need_translate="true" value=""/>
+        </window>
+    </control>
+    <crash_rpt>
+        <text id="installatio_of_error_handler_is_impossible" need_translate="true" value=""/>
+    </crash_rpt>
+    <credit_window>
+        <text id="abort" need_translate="true" value=""/>
+        <text id="abort_message" need_translate="true" value=""/>
+        <text id="accept" need_translate="true" value=""/>
+        <text id="dialog_title_return" need_translate="true" value=""/>
+        <text id="dialog_title_take" need_translate="true" value=""/>
+        <text id="interest_rate_step" need_translate="true" value=""/>
+        <text id="over_payment" need_translate="true" value=""/>
+        <text id="quart_payment" need_translate="true" value=""/>
+        <text id="repay" need_translate="true" value=""/>
+        <text id="sum" need_translate="true" value=""/>
+        <text id="take" need_translate="true" value=""/>
+        <text id="term" need_translate="true" value=""/>
+        <text id="term_value" need_translate="true" value=""/>
+    </credit_window>
+    <crimes>
+        <text id="effects" need_translate="true" value=""/>
+    </crimes>
+    <date_handler>
+        <text id="autumn" need_translate="true" value=""/>
+        <text id="date_template" need_translate="true" value=""/>
+        <text id="quarter" need_translate="true" value=""/>
+        <text id="quarter_template" need_translate="true" value=""/>
+        <text id="spring" need_translate="true" value=""/>
+        <text id="summer" need_translate="true" value=""/>
+        <text id="winter" need_translate="true" value=""/>
+    </date_handler>
+    <date_month>
+        <text id="1" need_translate="true" value=""/>
+        <text id="10" need_translate="true" value=""/>
+        <text id="11" need_translate="true" value=""/>
+        <text id="12" need_translate="true" value=""/>
+        <text id="2" need_translate="true" value=""/>
+        <text id="3" need_translate="true" value=""/>
+        <text id="4" need_translate="true" value=""/>
+        <text id="5" need_translate="true" value=""/>
+        <text id="6" need_translate="true" value=""/>
+        <text id="7" need_translate="true" value=""/>
+        <text id="8" need_translate="true" value=""/>
+        <text id="9" need_translate="true" value=""/>
+        <text id="year" need_translate="true" value=""/>
+    </date_month>
+    <dialog_panel>
+        <text id="attention" need_translate="true" value=""/>
+        <text id="talks" need_translate="true" value=""/>
+        <text id="yes_cancel_to_hell" need_translate="true" value=""/>
+    </dialog_panel>
+    <director_orders>
+        <text id="balance" need_translate="true" value=""/>
+        <text id="debts" need_translate="true" value=""/>
+        <text id="dividends" need_translate="true" value=""/>
+        <text id="dividends_percent" need_translate="true" value=""/>
+        <text id="orders" need_translate="true" value=""/>
+        <text id="release_bond" need_translate="true" value=""/>
+        <text id="release_shares" need_translate="true" value=""/>
+    </director_orders>
+    <director_result>
+        <text id="consumed_days" need_translate="true" value=""/>
+        <text id="deal_result" need_translate="true" value=""/>
+        <text id="experience" need_translate="true" value=""/>
+        <text id="ok" need_translate="true" value=""/>
+        <text id="parachute" need_translate="true" value=""/>
+        <text id="percent" need_translate="true" value=""/>
+        <text id="salary" need_translate="true" value=""/>
+        <text id="some_days&#9;" need_translate="true" value=""/>
+    </director_result>
+    <directors_dialog>
+        <text id="current_work" need_translate="true" value=""/>
+        <text id="directors" need_translate="true" value=""/>
+        <text id="gold_parashute" need_translate="true" value=""/>
+        <text id="jobless" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="rate" need_translate="true" value=""/>
+        <text id="select_of_director" need_translate="true" value=""/>
+        <text id="specific" need_translate="true" value=""/>
+        <text id="turnover_bonus" need_translate="true" value=""/>
+        <text id="type" need_translate="true" value=""/>
+    </directors_dialog>
+    <directors_handler>
+        <text id="some_directors_skill_is_worked" need_translate="true" value=""/>
+    </directors_handler>
+    <directors_window>
+        <text id="active_buildings" need_translate="true" value=""/>
+        <text id="attention_focuse" need_translate="true" value=""/>
+        <text id="automanagement" need_translate="true" value=""/>
+        <text id="board_of_directors" need_translate="true" value=""/>
+        <text id="chairman" need_translate="true" value=""/>
+        <text id="contract_duration" need_translate="true" value=""/>
+        <text id="controlers" need_translate="true" value=""/>
+        <text id="director" need_translate="true" value=""/>
+        <text id="educability" need_translate="true" value=""/>
+        <text id="finances" need_translate="true" value=""/>
+        <text id="fire_director" need_translate="true" value=""/>
+        <text id="gold_parachute" need_translate="true" value=""/>
+        <text id="goodwill" need_translate="true" value=""/>
+        <text id="hire" need_translate="true" value=""/>
+        <text id="hire_director" need_translate="true" value=""/>
+        <text id="in_developing" need_translate="true" value=""/>
+        <text id="independence_directors" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="information" need_translate="true" value=""/>
+        <text id="layoff" need_translate="true" value=""/>
+        <text id="loyalty" need_translate="true" value=""/>
+        <text id="manager" need_translate="true" value=""/>
+        <text id="motivation" need_translate="true" value=""/>
+        <text id="my_directors" need_translate="true" value=""/>
+        <text id="name_and_age" need_translate="true" value=""/>
+        <text id="negotiation" need_translate="true" value=""/>
+        <text id="no_shares" need_translate="true" value=""/>
+        <text id="orders" need_translate="true" value=""/>
+        <orders>
+            <text id="bayback" need_translate="true" value=""/>
+            <text id="bill_buying" need_translate="true" value=""/>
+            <text id="bill_issue" need_translate="true" value=""/>
+            <text id="bond_buying" need_translate="true" value=""/>
+            <text id="bond_issue" need_translate="true" value=""/>
+            <text id="shares_issue" need_translate="true" value=""/>
+        </orders>
+        <text id="production" need_translate="true" value=""/>
+        <text id="production_expenses" need_translate="true" value=""/>
+        <text id="profit_bonuse" need_translate="true" value=""/>
+        <text id="qualification" need_translate="true" value=""/>
+        <text id="salary" need_translate="true" value=""/>
+        <text id="short_window_name" need_translate="true" value=""/>
+        <text id="skills" need_translate="true" value=""/>
+        <text id="stock_package" need_translate="true" value=""/>
+        <text id="technologies" need_translate="true" value=""/>
+        <text id="tecnologies" need_translate="true" value=""/>
+        <text id="use_agent" need_translate="true" value=""/>
+        <text id="voting_not_possible" need_translate="true" value=""/>
+        <text id="window_name" need_translate="true" value=""/>
+        <text id="workplace" need_translate="true" value=""/>
+    </directors_window>
+    <discussion>
+        <text id="btn_exit" need_translate="true" value=""/>
+        <text id="comp_part" need_translate="true" value=""/>
+        <text id="comp_profit" need_translate="true" value=""/>
+        <text id="comp_profitability" need_translate="true" value=""/>
+        <text id="comp_share_price" need_translate="true" value=""/>
+        <text id="comp_shares" need_translate="true" value=""/>
+        <text id="comp_state" need_translate="true" value=""/>
+        <text id="comp_type" need_translate="true" value=""/>
+        <text id="counter_offer" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <director>
+            <text id="btn_recruit" need_translate="true" value=""/>
+            <text id="btn_two" need_translate="true" value=""/>
+            <text id="btn_type_recruit" need_translate="true" value=""/>
+            <text id="chance" need_translate="true" value=""/>
+            <text id="parach" need_translate="true" value=""/>
+            <text id="profit" need_translate="true" value=""/>
+            <text id="salary" need_translate="true" value=""/>
+        </director>
+        <text id="discussion_process" need_translate="true" value=""/>
+        <text id="fake_ambition" need_translate="true" value=""/>
+        <text id="give_influence" need_translate="true" value=""/>
+        <text id="go_to_meeting" need_translate="true" value=""/>
+        <text id="influence_days" need_translate="true" value=""/>
+        <text id="influence_str" need_translate="true" value=""/>
+        <text id="influence_value" need_translate="true" value=""/>
+        <text id="info_ambition" need_translate="true" value=""/>
+        <text id="info_assets" need_translate="true" value=""/>
+        <text id="info_character" need_translate="true" value=""/>
+        <text id="info_influence" need_translate="true" value=""/>
+        <text id="info_profit" need_translate="true" value=""/>
+        <text id="info_reputation" need_translate="true" value=""/>
+        <text id="lose_result_message" need_translate="true" value=""/>
+        <text id="lose_result_with_2chance_message" need_translate="true" value=""/>
+        <text id="make_an_offer" need_translate="true" value=""/>
+        <text id="money_str" need_translate="true" value=""/>
+        <text id="negative_relation_change" need_translate="true" value=""/>
+        <text id="negotiation_fail_risk" need_translate="true" value=""/>
+        <text id="negotiation_start" need_translate="true" value=""/>
+        <text id="own_auction_price" need_translate="true" value=""/>
+        <text id="own_cost" need_translate="true" value=""/>
+        <text id="own_demand" need_translate="true" value=""/>
+        <text id="own_effect" need_translate="true" value=""/>
+        <text id="own_expenses" need_translate="true" value=""/>
+        <text id="own_prestige" need_translate="true" value=""/>
+        <text id="own_price_change" need_translate="true" value=""/>
+        <text id="own_win_money" need_translate="true" value=""/>
+        <text id="ownership_purpose" need_translate="true" value=""/>
+        <text id="persistence" need_translate="true" value=""/>
+        <text id="player_offer" need_translate="true" value=""/>
+        <text id="positive_relation_change" need_translate="true" value=""/>
+        <text id="result_title" need_translate="true" value=""/>
+        <text id="roi" need_translate="true" value=""/>
+        <text id="share_price" need_translate="true" value=""/>
+        <text id="shares_count" need_translate="true" value=""/>
+        <text id="shares_part" need_translate="true" value=""/>
+        <text id="shares_purpose" need_translate="true" value=""/>
+        <text id="shares_units" need_translate="true" value=""/>
+        <text id="stress_str" need_translate="true" value=""/>
+        <text id="subject_of_meeting" need_translate="true" value=""/>
+        <text id="tab_choice_present" need_translate="true" value=""/>
+        <text id="tab_results" need_translate="true" value=""/>
+        <text id="tab_settings" need_translate="true" value=""/>
+        <text id="tab_target" need_translate="true" value=""/>
+        <text id="total_sum" need_translate="true" value=""/>
+        <text id="type_buy" need_translate="true" value=""/>
+        <text id="type_sell" need_translate="true" value=""/>
+        <text id="visit_purpose" need_translate="true" value=""/>
+        <text id="visit_type" need_translate="true" value=""/>
+        <text id="win_result_message" need_translate="true" value=""/>
+        <text id="win_result_with_2chance_message" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </discussion>
+    <discussion_handler>
+        <text id="agent_courtesan_effect" need_translate="true" value=""/>
+        <text id="agent_detective_effect" need_translate="true" value=""/>
+        <text id="agent_skill_escort" need_translate="true" value=""/>
+        <text id="agent_trasher_effect" need_translate="true" value=""/>
+        <text id="ambition_invidual" need_translate="true" value=""/>
+        <text id="because_of_agent_assistance " need_translate="true" value=""/>
+        <text id="big_politic_will_serve_to_you" need_translate="true" value=""/>
+        <text id="bribe_was_detected" need_translate="true" value=""/>
+        <text id="calculating_modifier" need_translate="true" value=""/>
+        <text id="call_to_state_chief_justice" need_translate="true" value=""/>
+        <text id="campaign_financing" need_translate="true" value=""/>
+        <text id="charisma" need_translate="true" value=""/>
+        <text id="coincidence_property" need_translate="true" value=""/>
+        <text id="communicate_at_high_society_rout" need_translate="true" value=""/>
+        <text id="confidence" need_translate="true" value=""/>
+        <text id="convinience" need_translate="true" value=""/>
+        <text id="days_left_to_discussion" need_translate="true" value=""/>
+        <text id="deal_broke_down_by_agent" need_translate="true" value=""/>
+        <text id="deal_price" need_translate="true" value=""/>
+        <text id="debt" need_translate="true" value=""/>
+        <text id="dialog_influence" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="discussion_status_error" need_translate="true" value=""/>
+        <text id="discussion_status_low_influence" need_translate="true" value=""/>
+        <text id="discussion_status_out_of_days" need_translate="true" value=""/>
+        <text id="discussion_status_person_busy" need_translate="true" value=""/>
+        <text id="discussion_status_possible" need_translate="true" value=""/>
+        <text id="disinclination" need_translate="true" value=""/>
+        <text id="eloquence" need_translate="true" value=""/>
+        <text id="gold_parashute" need_translate="true" value=""/>
+        <text id="great_you_buy_some_safety_stock_in_some_company" need_translate="true" value=""/>
+        <text id="great_you_buy_some_votes_in_some_company" need_translate="true" value=""/>
+        <text id="great_you_employ_new_director_in_some_company" need_translate="true" value=""/>
+        <text id="great_you_sell_some_safety_stock_in_some_company" need_translate="true" value=""/>
+        <text id="in_spite_of_agent_assistance" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="intimidation" need_translate="true" value=""/>
+        <text id="loan_rate_modifier" need_translate="true" value=""/>
+        <text id="loan_sum_modifier" need_translate="true" value=""/>
+        <text id="margin_bonus" need_translate="true" value=""/>
+        <text id="modifier_goodwill" need_translate="true" value=""/>
+        <text id="negotiations_broke_down" need_translate="true" value=""/>
+        <text id="pay_loan" need_translate="true" value=""/>
+        <text id="person_skill_give_recommendations" need_translate="true" value=""/>
+        <text id="person_skill_superstitious" need_translate="true" value=""/>
+        <text id="player_reputation" need_translate="true" value=""/>
+        <text id="politic_want_more_money" need_translate="true" value=""/>
+        <text id="politic_will_serve_to_you" need_translate="true" value=""/>
+        <text id="prejudice" need_translate="true" value=""/>
+        <text id="relation" need_translate="true" value=""/>
+        <text id="repay_to_justice" need_translate="true" value=""/>
+        <text id="safety_stock_offer_price" need_translate="true" value=""/>
+        <text id="share_fraction_bonus" need_translate="true" value=""/>
+        <text id="share_portion" need_translate="true" value=""/>
+        <text id="share_profits" need_translate="true" value=""/>
+        <text id="single_bribe" need_translate="true" value=""/>
+        <text id="spirits" need_translate="true" value=""/>
+        <text id="stake" need_translate="true" value=""/>
+        <text id="stockholder_propose_self_interest" need_translate="true" value=""/>
+        <text id="turnover_bonus" need_translate="true" value=""/>
+        <text id="want_to_sell" need_translate="true" value=""/>
+        <text id="warning" need_translate="true" value=""/>
+        <text id="you_buy_some_votes_in_some_company" need_translate="true" value=""/>
+        <text id="you_can_not_buy_some_votes_in_some_company" need_translate="true" value=""/>
+        <text id="you_can_not_employ_some_director_in_some_company" need_translate="true" value=""/>
+        <text id="you_employ_new_director_in_some_company" need_translate="true" value=""/>
+        <text id="you_escape_penalty_because_justice_is_your_man" need_translate="true" value=""/>
+        <text id="you_want_to_buy_some_safety_stock" need_translate="true" value=""/>
+    </discussion_handler>
+    <discussion_history_log>
+        <text id="dialog_fail" need_translate="true" value=""/>
+        <text id="dialog_success" need_translate="true" value=""/>
+        <text id="dialog_success_loan" need_translate="true" value=""/>
+        <text id="first_offer" need_translate="true" value=""/>
+        <text id="next_offer" need_translate="true" value=""/>
+        <text id="player_offer" need_translate="true" value=""/>
+        <text id="player_offer_pay_loan" need_translate="true" value=""/>
+        <text id="player_offer_take_loan" need_translate="true" value=""/>
+        <text id="round" need_translate="true" value=""/>
+    </discussion_history_log>
+    <discussion_info_popup>
+        <text id="cancel_negotiation" need_translate="true" value=""/>
+        <text id="deal_chance" need_translate="true" value=""/>
+        <text id="if_cancel" need_translate="true" value=""/>
+        <text id="meeting" need_translate="true" value=""/>
+        <text id="popup_title_negotiation" need_translate="true" value=""/>
+    </discussion_info_popup>
+    <discussion_offer>
+        <text id="agree" need_translate="true" value=""/>
+        <text id="counter_offer" need_translate="true" value=""/>
+        <text id="deal_conditions" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="deny" need_translate="true" value=""/>
+        <text id="safety_stock_cost" need_translate="true" value=""/>
+        <text id="safety_stock_quantity" need_translate="true" value=""/>
+    </discussion_offer>
+    <discussion_panel>
+        <text id="talks_progress" need_translate="true" value=""/>
+        <text id="talks_round" need_translate="true" value=""/>
+    </discussion_panel>
+    <discussion_process_background>
+        <text id="repeated_discussion_start_because_of_second_chance" need_translate="true" value=""/>
+        <text id="talks_process" need_translate="true" value=""/>
+    </discussion_process_background>
+    <discussion_result>
+        <text id="consumed_days" need_translate="true" value=""/>
+        <text id="deal_result" need_translate="true" value=""/>
+        <text id="experience" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="money" need_translate="true" value=""/>
+        <text id="ok" need_translate="true" value=""/>
+        <text id="some_days" need_translate="true" value=""/>
+    </discussion_result>
+    <discussion_result_message_box>
+        <text id="talks_failure" need_translate="true" value=""/>
+        <text id="talks_success" need_translate="true" value=""/>
+    </discussion_result_message_box>
+    <discussion_settings>
+        <text id="deal" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="safety_stock_cost" need_translate="true" value=""/>
+        <text id="safety_stock_quantity" need_translate="true" value=""/>
+    </discussion_settings>
+    <discussion_window>
+        <text id="agree" need_translate="true" value=""/>
+        <text id="analysis" need_translate="true" value=""/>
+        <text id="contract" need_translate="true" value=""/>
+        <text id="contract_condition" need_translate="true" value=""/>
+        <text id="deal_chance" need_translate="true" value=""/>
+        <text id="deal_history" need_translate="true" value=""/>
+        <text id="deal_sum" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="history" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="info" need_translate="true" value=""/>
+        <loan>
+            <text id="all_loans" need_translate="true" value=""/>
+            <text id="loan_sum" need_translate="true" value=""/>
+            <text id="pay_loan" need_translate="true" value=""/>
+            <text id="quarter_payment" need_translate="true" value=""/>
+            <text id="quarter_rate" need_translate="true" value=""/>
+            <text id="take_loan" need_translate="true" value=""/>
+            <text id="total_sum_by_loans" need_translate="true" value=""/>
+        </loan>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="negotiation_in_progress" need_translate="true" value=""/>
+        <text id="neutral_result1" need_translate="true" value=""/>
+        <text id="neutral_result2" need_translate="true" value=""/>
+        <text id="offer" need_translate="true" value=""/>
+        <text id="opponent_sign" need_translate="true" value=""/>
+        <text id="player_sign" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="refuse" need_translate="true" value=""/>
+        <text id="roi" need_translate="true" value=""/>
+        <text id="share_price" need_translate="true" value=""/>
+        <text id="shares_count" need_translate="true" value=""/>
+        <text id="shares_part_after_deal" need_translate="true" value=""/>
+        <text id="sign" need_translate="true" value=""/>
+    </discussion_window>
+    <economic>
+        <buttons>
+            <text id="accident_risk" need_translate="true" value=""/>
+            <text id="actual_production" need_translate="true" value=""/>
+            <text id="administration" need_translate="true" value=""/>
+            <text id="administrative_costs" need_translate="true" value=""/>
+            <text id="assets" need_translate="true" value=""/>
+            <text id="avg_salary" need_translate="true" value=""/>
+            <text id="bonds" need_translate="true" value=""/>
+            <text id="buildings_costs" need_translate="true" value=""/>
+            <text id="buildings_limit" need_translate="true" value=""/>
+            <text id="buy_costs" need_translate="true" value=""/>
+            <text id="capitalization" need_translate="true" value=""/>
+            <text id="company_shares" need_translate="true" value=""/>
+            <text id="cost_price" need_translate="true" value=""/>
+            <text id="debt" need_translate="true" value=""/>
+            <text id="dividends" need_translate="true" value=""/>
+            <text id="duties" need_translate="true" value=""/>
+            <text id="expense" need_translate="true" value=""/>
+            <text id="fixed_costs" need_translate="true" value=""/>
+            <text id="goodwill" need_translate="true" value=""/>
+            <text id="margin" need_translate="true" value=""/>
+            <text id="motivation" need_translate="true" value=""/>
+            <text id="oil_storage" need_translate="true" value=""/>
+            <text id="oil_sump" need_translate="true" value=""/>
+            <text id="output" need_translate="true" value=""/>
+            <text id="proceeds" need_translate="true" value=""/>
+            <text id="productive_costs" need_translate="true" value=""/>
+            <text id="productivity" need_translate="true" value=""/>
+            <text id="profit" need_translate="true" value=""/>
+            <text id="profitability" need_translate="true" value=""/>
+            <text id="pure_profit" need_translate="true" value=""/>
+            <text id="reserves" need_translate="true" value=""/>
+            <text id="resources_count" need_translate="true" value=""/>
+            <text id="roi" need_translate="true" value=""/>
+            <text id="salary_costs" need_translate="true" value=""/>
+            <text id="sell_contracts" need_translate="true" value=""/>
+            <text id="share_price" need_translate="true" value=""/>
+            <text id="shares_count" need_translate="true" value=""/>
+            <text id="stored_products" need_translate="true" value=""/>
+            <text id="strike_risk" need_translate="true" value=""/>
+            <text id="taxes" need_translate="true" value=""/>
+            <text id="tecnologies" need_translate="true" value=""/>
+            <text id="transit" need_translate="true" value=""/>
+            <text id="transit_costs" need_translate="true" value=""/>
+            <text id="variable_costs" need_translate="true" value=""/>
+            <text id="workers" need_translate="true" value=""/>
+            <text id="working_condition" need_translate="true" value=""/>
+            <text id="working_day" need_translate="true" value=""/>
+            <text id="workplaces" need_translate="true" value=""/>
+        </buttons>
+        <text id="changes_title" need_translate="true" value=""/>
+        <text id="charts" need_translate="true" value=""/>
+        <text id="forecast" need_translate="true" value=""/>
+        <text id="index" need_translate="true" value=""/>
+        <text id="influence_factors" need_translate="true" value=""/>
+        <text id="now" need_translate="true" value=""/>
+        <text id="rivals" need_translate="true" value=""/>
+    </economic>
+    <event_result>
+        <text id="button_next" need_translate="true" value=""/>
+        <text id="fail_text" need_translate="true" value=""/>
+        <text id="money" need_translate="true" value=""/>
+        <text id="rout_result_header" need_translate="true" value=""/>
+    </event_result>
+    <game_bot>
+        <text id="bot_buy_some_safety_stock_ang_go_to_politiciants" need_translate="true" value=""/>
+        <text id="bot_can_not_buy_some_safety_stock" need_translate="true" value=""/>
+        <text id="bot_can_not_lobby_some_politiciant" need_translate="true" value=""/>
+        <text id="bot_can_not_walk" need_translate="true" value=""/>
+        <text id="bot_check_all_places" need_translate="true" value=""/>
+        <text id="bot_go_to_another_place" need_translate="true" value=""/>
+        <text id="bot_go_to_lobby_politiciants" need_translate="true" value=""/>
+        <text id="bot_moved_to_some_place_and_finding_some_company" need_translate="true" value=""/>
+        <text id="bot_properties" need_translate="true" value=""/>
+        <text id="creation_new_bot" need_translate="true" value=""/>
+        <text id="failure_bot_config_loading" need_translate="true" value=""/>
+        <text id="map_not_free_bot_waiting_next_step" need_translate="true" value=""/>
+        <text id="next_bot_action_in_some_time" need_translate="true" value=""/>
+        <text id="not_enough_days_end_step" need_translate="true" value=""/>
+        <text id="not_enough_days_for_buy_safety_stock_at_discussion" need_translate="true" value=""/>
+        <text id="not_enough_influence_end_step" need_translate="true" value=""/>
+        <text id="not_enough_influence_to_politicants_go_to_another_place" need_translate="true" value=""/>
+        <text id="not_enough_money_for_bot_moving" need_translate="true" value=""/>
+        <text id="not_enough_money_for_buy_one_safety_stock" need_translate="true" value=""/>
+        <text id="not_enough_money_for_buy_this_packege_safety_stock" need_translate="true" value=""/>
+        <text id="player_is_prisoner_and_miss_lead" need_translate="true" value=""/>
+    </game_bot>
+    <game_bots>
+        <text id="bots_started" need_translate="true" value=""/>
+        <text id="bots_stopped" need_translate="true" value=""/>
+    </game_bots>
+    <game_events>
+        <text id="bet" need_translate="true" value=""/>
+        <text id="cancel_some_meetings" need_translate="true" value=""/>
+        <text id="charitable_contribution" need_translate="true" value=""/>
+        <text id="charitable_contribution_accept" need_translate="true" value=""/>
+        <text id="charitable_contribution_deny" need_translate="true" value=""/>
+        <text id="delay_at_way" need_translate="true" value=""/>
+        <text id="fortune_money_bonus" need_translate="true" value=""/>
+        <text id="fortune_money_bonus_to_your_purse" need_translate="true" value=""/>
+        <text id="hold_up_at_way" need_translate="true" value=""/>
+        <text id="hold_up_at_way_and_money_cost" need_translate="true" value=""/>
+        <text id="hold_up_at_way_and_win" need_translate="true" value=""/>
+        <text id="hold_up_at_way_and_wound" need_translate="true" value=""/>
+        <text id="money_cost" need_translate="true" value=""/>
+        <text id="no_reveal" need_translate="true" value=""/>
+        <text id="politiciant_money_support" need_translate="true" value=""/>
+        <text id="politiciant_money_support_accept" need_translate="true" value=""/>
+        <text id="politiciant_money_support_deny" need_translate="true" value=""/>
+        <text id="relation_event" need_translate="true" value=""/>
+        <text id="relation_result_negative_value1" need_translate="true" value=""/>
+        <text id="relation_result_negative_value2" need_translate="true" value=""/>
+        <text id="relation_result_negative_value3" need_translate="true" value=""/>
+        <text id="relation_result_positive_text" need_translate="true" value=""/>
+        <text id="relation_result_positive_value1" need_translate="true" value=""/>
+        <text id="relation_result_positive_value2" need_translate="true" value=""/>
+        <text id="relation_result_positive_value3" need_translate="true" value=""/>
+        <text id="reveal_fail" need_translate="true" value=""/>
+        <text id="reveal_success" need_translate="true" value=""/>
+        <text id="robbery_negative" need_translate="true" value=""/>
+        <text id="robbery_positive" need_translate="true" value=""/>
+        <text id="step" need_translate="true" value=""/>
+        <text id="time_cost" need_translate="true" value=""/>
+        <text id="wound_risk" need_translate="true" value=""/>
+        <text id="you_are_ready_to_actions" need_translate="true" value=""/>
+        <text id="you_loss_some_days" need_translate="true" value=""/>
+    </game_events>
+    <game_events_handler>
+        <text id="days" need_translate="true" value=""/>
+        <text id="half_a_year" need_translate="true" value=""/>
+        <text id="one_quarter" need_translate="true" value=""/>
+        <text id="one_year" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="you_will_get" need_translate="true" value=""/>
+        <text id="you_will_lose" need_translate="true" value=""/>
+    </game_events_handler>
+    <guest_card>
+        <text id="communicate" need_translate="true" value=""/>
+        <text id="impression" need_translate="true" value=""/>
+        <text id="invitation" need_translate="true" value=""/>
+        <text id="on_name" need_translate="true" value=""/>
+        <text id="personage_terms" need_translate="true" value=""/>
+    </guest_card>
+    <guest_info>
+        <text id="explore_more" need_translate="true" value=""/>
+        <text id="invite_someone" need_translate="true" value=""/>
+    </guest_info>
+    <hire_director_popup>
+        <text id="ok_button" need_translate="true" value=""/>
+        <text id="popup_header" need_translate="true" value=""/>
+        <text id="popup_text" need_translate="true" value=""/>
+    </hire_director_popup>
+    <hover_item>
+        <text id="cost_of_part" need_translate="true" value=""/>
+        <text id="invite_to_rout" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="relations" need_translate="true" value=""/>
+        <text id="sell" need_translate="true" value=""/>
+        <text id="some_safety_stock" need_translate="true" value=""/>
+        <text id="talks" need_translate="true" value=""/>
+        <text id="to_talks" need_translate="true" value=""/>
+        <text id="ups" need_translate="true" value=""/>
+        <text id="use_agent" need_translate="true" value=""/>
+        <text id="use_skill" need_translate="true" value=""/>
+        <text id="you_be_late_shareholder_already_on_talks" need_translate="true" value=""/>
+    </hover_item>
+    <interesting_content>
+        <text id="autumn" need_translate="true" value=""/>
+        <text id="spring" need_translate="true" value=""/>
+        <text id="summer" need_translate="true" value=""/>
+        <text id="winter" need_translate="true" value=""/>
+    </interesting_content>
+    <issue_shares>
+        <text id="buy_max" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="issue_shares" need_translate="true" value=""/>
+        <text id="put_sign" need_translate="true" value=""/>
+        <text id="share_price" need_translate="true" value=""/>
+        <text id="shares_cost" need_translate="true" value=""/>
+        <text id="shares_percent" need_translate="true" value=""/>
+        <text id="shares_sold" need_translate="true" value=""/>
+    </issue_shares>
+    <item_with_check_model>
+        <text id="company" need_translate="true" value=""/>
+        <text id="contact" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="safety_stock" need_translate="true" value=""/>
+        <text id="share_fraction" need_translate="true" value=""/>
+        <text id="shareholder" need_translate="true" value=""/>
+    </item_with_check_model>
+    <left_panel>
+        <text id="h_1" need_translate="true" value=""/>
+        <text id="h_2" need_translate="true" value=""/>
+        <text id="h_3" need_translate="true" value=""/>
+        <text id="h_4" need_translate="true" value=""/>
+    </left_panel>
+    <level_figures>
+        <text id="bishop" need_translate="true" value=""/>
+        <text id="castle" need_translate="true" value=""/>
+        <text id="king" need_translate="true" value=""/>
+        <text id="knight" need_translate="true" value=""/>
+        <text id="pawn" need_translate="true" value=""/>
+    </level_figures>
+    <main>
+        <text id="first_start_of_game" need_translate="true" value=""/>
+        <text id="plutocracy" need_translate="true" value=""/>
+        <text id="progress" need_translate="true" value=""/>
+    </main>
+    <main_events_sequence>
+        <text id="alpha_version_win_condition" need_translate="true" value=""/>
+        <text id="bots_stopped_to_next_step" need_translate="true" value=""/>
+        <text id="campaign" need_translate="true" value=""/>
+        <text id="end_game" need_translate="true" value=""/>
+        <text id="free_governor_lobby_player" need_translate="true" value=""/>
+        <text id="free_marshal_lobby_bot" need_translate="true" value=""/>
+        <text id="game_over" need_translate="true" value=""/>
+        <text id="months_of_prisoning" need_translate="true" value=""/>
+        <text id="multiplayer_game" need_translate="true" value=""/>
+        <text id="no_actions_because_you_are_prisoned" need_translate="true" value=""/>
+        <text id="no_description_for_this_test_command" need_translate="true" value=""/>
+        <text id="no_new_companies_at_this_month_because_senat_maratory" need_translate="true" value=""/>
+        <text id="no_new_companies_because_no_territory" need_translate="true" value=""/>
+        <text id="sandbox" need_translate="true" value=""/>
+        <text id="stop_all_bots" need_translate="true" value=""/>
+        <text id="test_comand_dont_relize" need_translate="true" value=""/>
+        <text id="test_task" need_translate="true" value=""/>
+        <text id="unknown" need_translate="true" value=""/>
+        <text id="you_miss_step" need_translate="true" value=""/>
+    </main_events_sequence>
+    <main_menu>
+        <text id="advancement" need_translate="true" value=""/>
+        <text id="campaign" need_translate="true" value=""/>
+        <text id="config" need_translate="true" value=""/>
+        <text id="developers" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="load" need_translate="true" value=""/>
+        <text id="network_game" need_translate="true" value=""/>
+        <text id="sandbox" need_translate="true" value=""/>
+    </main_menu>
+    <map_check>
+        <text id="auction" need_translate="true" value=""/>
+        <text id="init_price" need_translate="true" value=""/>
+        <text id="player" need_translate="true" value=""/>
+        <text id="share_portion" need_translate="true" value=""/>
+        <text id="shareholder_offer" need_translate="true" value=""/>
+    </map_check>
+    <map_filters>
+        <text id="absolute_influence" need_translate="true" value=""/>
+        <text id="absolute_value" need_translate="true" value=""/>
+        <text id="actual_income" need_translate="true" value=""/>
+        <text id="authority" need_translate="true" value=""/>
+        <text id="button_hint_header" need_translate="true" value=""/>
+        <text id="button_hint_text" need_translate="true" value=""/>
+        <text id="capitalization" need_translate="true" value=""/>
+        <text id="companies" need_translate="true" value=""/>
+        <text id="companies_types" need_translate="true" value=""/>
+        <text id="corporate_taxes" need_translate="true" value=""/>
+        <text id="democrats" need_translate="true" value=""/>
+        <text id="dividends" need_translate="true" value=""/>
+        <text id="enemies" need_translate="true" value=""/>
+        <text id="federal" need_translate="true" value=""/>
+        <text id="filters" need_translate="true" value=""/>
+        <text id="friends" need_translate="true" value=""/>
+        <text id="gdp" need_translate="true" value=""/>
+        <text id="global_influence" need_translate="true" value=""/>
+        <text id="holder" need_translate="true" value=""/>
+        <text id="in_developing" need_translate="true" value=""/>
+        <text id="income_per_person" need_translate="true" value=""/>
+        <text id="income_taxes_for_person" need_translate="true" value=""/>
+        <text id="influence_in_state" need_translate="true" value=""/>
+        <text id="level" need_translate="true" value=""/>
+        <text id="links_with_the_politicans" need_translate="true" value=""/>
+        <text id="local" need_translate="true" value=""/>
+        <text id="local_influence" need_translate="true" value=""/>
+        <text id="loyalty" need_translate="true" value=""/>
+        <text id="macroeconomics" need_translate="true" value=""/>
+        <text id="marginalization" need_translate="true" value=""/>
+        <text id="market_size" need_translate="true" value=""/>
+        <text id="microeconomics" need_translate="true" value=""/>
+        <text id="net_profit" need_translate="true" value=""/>
+        <text id="neutral" need_translate="true" value=""/>
+        <text id="neutrals" need_translate="true" value=""/>
+        <text id="party" need_translate="true" value=""/>
+        <text id="player" need_translate="true" value=""/>
+        <text id="population" need_translate="true" value=""/>
+        <text id="potential_income" need_translate="true" value=""/>
+        <text id="profit_in_company" need_translate="true" value=""/>
+        <text id="relative_influence" need_translate="true" value=""/>
+        <text id="relative_value" need_translate="true" value=""/>
+        <text id="republicans" need_translate="true" value=""/>
+        <text id="reset" need_translate="true" value=""/>
+        <text id="resources" need_translate="true" value=""/>
+        <text id="roa" need_translate="true" value=""/>
+        <text id="roi" need_translate="true" value=""/>
+        <text id="show_all" need_translate="true" value=""/>
+        <text id="sort_by_number" need_translate="true" value=""/>
+        <text id="taxes" need_translate="true" value=""/>
+        <text id="technology" need_translate="true" value=""/>
+        <text id="title_holders" need_translate="true" value=""/>
+        <text id="type" need_translate="true" value=""/>
+        <text id="unemployment" need_translate="true" value=""/>
+        <text id="workers" need_translate="true" value=""/>
+        <text id="workers_count" need_translate="true" value=""/>
+    </map_filters>
+    <map_filters_handler>
+        <text id="actual_income" need_translate="true" value=""/>
+        <text id="all_actual_income" need_translate="true" value=""/>
+        <text id="all_potential_income" need_translate="true" value=""/>
+        <text id="authority_all_with_loyalty" need_translate="true" value=""/>
+        <text id="authority_all_without_loyalty" need_translate="true" value=""/>
+        <text id="authority_comparison" need_translate="true" value=""/>
+        <text id="authority_player_with_loyalty_enemies" need_translate="true" value=""/>
+        <text id="authority_player_with_loyalty_friends" need_translate="true" value=""/>
+        <text id="authority_player_with_loyalty_neutrals" need_translate="true" value=""/>
+        <text id="authority_player_without_loyalty" need_translate="true" value=""/>
+        <text id="company_count" need_translate="true" value=""/>
+        <text id="corporate_taxes_text" need_translate="true" value=""/>
+        <text id="income_per_person_text" need_translate="true" value=""/>
+        <text id="income_taxes_for_person_text" need_translate="true" value=""/>
+        <text id="no_active_filters" need_translate="true" value=""/>
+        <text id="owner_company_count" need_translate="true" value=""/>
+        <text id="popupation_text" need_translate="true" value=""/>
+        <text id="potential_income" need_translate="true" value=""/>
+        <text id="result_of_filtration" need_translate="true" value=""/>
+        <text id="result_without_loyalty_warning" need_translate="true" value=""/>
+        <text id="unemployment_text" need_translate="true" value=""/>
+        <text id="workers_count_text" need_translate="true" value=""/>
+    </map_filters_handler>
+    <map_handler>
+        <text id="ticket_to_some_state" need_translate="true" value=""/>
+        <text id="you_are_moved" need_translate="true" value=""/>
+    </map_handler>
+    <map_popup>
+        <text id="bon_voyage" need_translate="true" value=""/>
+        <text id="buy_ticket" need_translate="true" value=""/>
+        <text id="cost" need_translate="true" value=""/>
+        <text id="ticket_to_train" need_translate="true" value=""/>
+        <text id="time_in_journey" need_translate="true" value=""/>
+    </map_popup>
+    <map_units>
+        <cities>
+            <text id="albany" need_translate="true" value=""/>
+            <text id="buffalo" need_translate="true" value=""/>
+            <text id="chicago" need_translate="true" value=""/>
+            <text id="dalas" need_translate="true" value=""/>
+            <text id="elpaso" need_translate="true" value=""/>
+            <text id="fortworth" need_translate="true" value=""/>
+            <text id="houston" need_translate="true" value=""/>
+            <text id="naperville" need_translate="true" value=""/>
+            <text id="newyork" need_translate="true" value=""/>
+            <text id="ostin" need_translate="true" value=""/>
+            <text id="peoria" need_translate="true" value=""/>
+            <text id="rochester" need_translate="true" value=""/>
+            <text id="rockford" need_translate="true" value=""/>
+            <text id="sanantonio" need_translate="true" value=""/>
+            <text id="sentluis" need_translate="true" value=""/>
+            <text id="springfield" need_translate="true" value=""/>
+            <text id="syracuse" need_translate="true" value=""/>
+            <text id="watertown" need_translate="true" value=""/>
+        </cities>
+        <text id="il_desc" need_translate="true" value=""/>
+        <text id="il_motto" need_translate="true" value=""/>
+        <text id="il_nickname" need_translate="true" value=""/>
+        <text id="ny_desc" need_translate="true" value=""/>
+        <text id="ny_motto" need_translate="true" value=""/>
+        <text id="ny_nickname" need_translate="true" value=""/>
+        <text id="tx_desc" need_translate="true" value=""/>
+        <text id="tx_motto" need_translate="true" value=""/>
+        <text id="tx_nickname" need_translate="true" value=""/>
+    </map_units>
+    <math_functions>
+        <text id="b" need_translate="true" value=""/>
+        <text id="k" need_translate="true" value=""/>
+        <text id="m" need_translate="true" value=""/>
+    </math_functions>
+    <menu>
+        <text id="pause_menu" need_translate="true" value=""/>
+        <text id="pause_menu_continue" need_translate="true" value=""/>
+        <text id="pause_menu_load" need_translate="true" value=""/>
+        <text id="pause_menu_main_screen" need_translate="true" value=""/>
+        <text id="pause_menu_quick_save" need_translate="true" value=""/>
+        <text id="pause_menu_settings" need_translate="true" value=""/>
+        <text id="settings_menu" need_translate="true" value=""/>
+    </menu>
+    <message_box>
+        <text id="attention" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
+        <text id="ok" need_translate="true" value=""/>
+    </message_box>
+    <month_switcher>
+        <text id="autumn" need_translate="true" value=""/>
+        <text id="spring" need_translate="true" value=""/>
+        <text id="summer" need_translate="true" value=""/>
+        <text id="winter" need_translate="true" value=""/>
+    </month_switcher>
+    <news_makets>
+        <text id="accident_caption" need_translate="true" value=""/>
+        <text id="accident_text" need_translate="true" value=""/>
+        <text id="add_influence_from_politician_caption" need_translate="true" value=""/>
+        <text id="add_influence_from_politician_text" need_translate="true" value=""/>
+        <text id="agent_applying_fail_caption" need_translate="true" value=""/>
+        <text id="agent_applying_success_caption" need_translate="true" value=""/>
+        <text id="alliance_caption" need_translate="true" value=""/>
+        <text id="ambition_negative_header" need_translate="true" value=""/>
+        <text id="ambition_negative_text" need_translate="true" value=""/>
+        <text id="ambition_positive_header" need_translate="true" value=""/>
+        <text id="ambition_positive_text" need_translate="true" value=""/>
+        <text id="charity_event_caption" need_translate="true" value=""/>
+        <text id="charity_event_text" need_translate="true" value=""/>
+        <text id="elections_passed_caption" need_translate="true" value=""/>
+        <text id="elections_passed_text_1" need_translate="true" value=""/>
+        <text id="elections_passed_text_2" need_translate="true" value=""/>
+        <text id="elections_passed_text_3" need_translate="true" value=""/>
+        <text id="elections_passed_text_4" need_translate="true" value=""/>
+        <text id="feudfrom_proprietor_text" need_translate="true" value=""/>
+        <text id="feudfrom_сompetitor_text" need_translate="true" value=""/>
+        <text id="give_loan_text" need_translate="true" value=""/>
+        <text id="hiring_director_caption" need_translate="true" value=""/>
+        <text id="hiring_director_text" need_translate="true" value=""/>
+        <text id="horse_racing_caption" need_translate="true" value=""/>
+        <text id="horse_racing_text" need_translate="true" value=""/>
+        <text id="invite_to_dinner_caption" need_translate="true" value=""/>
+        <text id="invite_to_dinner_text" need_translate="true" value=""/>
+        <text id="invite_to_horse_racing" need_translate="true" value=""/>
+        <text id="invite_to_rout" need_translate="true" value=""/>
+        <text id="loyality_change_caption" need_translate="true" value=""/>
+        <text id="loyality_change_text" need_translate="true" value=""/>
+        <text id="mail_body_head" need_translate="true" value=""/>
+        <text id="mail_body_tail" need_translate="true" value=""/>
+        <text id="make_donation_text" need_translate="true" value=""/>
+        <text id="player_by_action_caption" need_translate="true" value=""/>
+        <text id="player_by_action_text" need_translate="true" value=""/>
+        <text id="player_by_from_auc_caption" need_translate="true" value=""/>
+        <text id="player_by_from_auc_text" need_translate="true" value=""/>
+        <text id="player_by_from_npc_caption" need_translate="true" value=""/>
+        <text id="player_by_from_npc_text" need_translate="true" value=""/>
+        <text id="player_donation_to_fund_caption" need_translate="true" value=""/>
+        <text id="player_donation_to_fund_text" need_translate="true" value=""/>
+        <text id="player_fail_by_action_caption" need_translate="true" value=""/>
+        <text id="player_fail_by_action_text" need_translate="true" value=""/>
+        <text id="player_lost_trades_caption" need_translate="true" value=""/>
+        <text id="player_lost_trades_text" need_translate="true" value=""/>
+        <text id="player_missed_auction_caption" need_translate="true" value=""/>
+        <text id="player_missed_auction_text_1" need_translate="true" value=""/>
+        <text id="player_missed_auction_text_2" need_translate="true" value=""/>
+        <text id="player_missed_auction_text_3" need_translate="true" value=""/>
+        <text id="player_missed_auction_text_4" need_translate="true" value=""/>
+        <text id="player_sale_action_caption" need_translate="true" value=""/>
+        <text id="player_sale_action_text" need_translate="true" value=""/>
+        <text id="player_sale_goods_to_nps_caption" need_translate="true" value=""/>
+        <text id="player_sale_goods_to_nps_caption_bonus" need_translate="true" value=""/>
+        <text id="player_sale_goods_to_nps_text" need_translate="true" value=""/>
+        <text id="player_sale_goods_to_nps_text_bonus" need_translate="true" value=""/>
+        <text id="player_salegoods_from_auc_caption" need_translate="true" value=""/>
+        <text id="player_salegoods_from_auc_text" need_translate="true" value=""/>
+        <text id="refuse_to_lend_text" need_translate="true" value=""/>
+        <text id="reject_rout_text" need_translate="true" value=""/>
+        <text id="robbery_road_caption" need_translate="true" value=""/>
+        <text id="robbery_road_text_1" need_translate="true" value=""/>
+        <text id="robbery_road_text_2" need_translate="true" value=""/>
+        <text id="robbery_road_text_3" need_translate="true" value=""/>
+        <text id="robbery_road_text_4" need_translate="true" value=""/>
+        <text id="robbery_road_text_5" need_translate="true" value=""/>
+        <text id="strike_caption" need_translate="true" value=""/>
+        <text id="strike_occurred_caption" need_translate="true" value=""/>
+        <text id="strike_occurred_for_player_caption" need_translate="true" value=""/>
+        <text id="strike_occurred_for_player_text" need_translate="true" value=""/>
+        <text id="strike_occurred_text_1" need_translate="true" value=""/>
+        <text id="strike_occurred_text_2" need_translate="true" value=""/>
+        <text id="strike_occurred_text_3" need_translate="true" value=""/>
+        <text id="strike_occurred_text_4" need_translate="true" value=""/>
+        <text id="strike_text" need_translate="true" value=""/>
+        <text id="train_delay_caption" need_translate="true" value=""/>
+        <text id="train_delay_text_1" need_translate="true" value=""/>
+        <text id="train_delay_text_2" need_translate="true" value=""/>
+        <text id="train_delay_text_3" need_translate="true" value=""/>
+        <text id="train_pay_caption" need_translate="true" value=""/>
+        <text id="warning_from_proprietor_text" need_translate="true" value=""/>
+    </news_makets>
+    <news_window>
+        <text id="action" need_translate="true" value=""/>
+        <text id="attention" need_translate="true" value=""/>
+        <text id="auction" need_translate="true" value=""/>
+        <text id="cancel_button" need_translate="true" value=""/>
+        <text id="confirm_delete_text" need_translate="true" value=""/>
+        <text id="confirm_delete_title" need_translate="true" value=""/>
+        <text id="deal" need_translate="true" value=""/>
+        <text id="economic" need_translate="true" value=""/>
+        <text id="gwen_spacey" need_translate="true" value=""/>
+        <text id="news" need_translate="true" value=""/>
+        <text id="no_news" need_translate="true" value=""/>
+        <text id="ok_button" need_translate="true" value=""/>
+        <text id="politic" need_translate="true" value=""/>
+        <text id="self" need_translate="true" value=""/>
+        <text id="world" need_translate="true" value=""/>
+    </news_window>
+    <official_window>
+        <text id="beliefs" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="loyality" need_translate="true" value=""/>
+        <text id="marriage" need_translate="true" value=""/>
+        <text id="party" need_translate="true" value=""/>
+        <text id="person" need_translate="true" value=""/>
+        <text id="religion" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="title" need_translate="true" value=""/>
+    </official_window>
+    <opened_button>
+        <text id="action" need_translate="true" value=""/>
+    </opened_button>
+    <ownership_info>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="price" need_translate="true" value=""/>
+        <text id="sell" need_translate="true" value=""/>
+        <text id="support_cost" need_translate="true" value=""/>
+    </ownership_info>
+    <ownership_popup>
+        <text id="auction_date" need_translate="true" value=""/>
+        <text id="base_price" need_translate="true" value=""/>
+        <text id="bidders_count" need_translate="true" value=""/>
+        <text id="buy_price" need_translate="true" value=""/>
+        <text id="cancel_auction" need_translate="true" value=""/>
+        <text id="market_price" need_translate="true" value=""/>
+        <text id="next" need_translate="true" value=""/>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="start_auction" need_translate="true" value=""/>
+        <text id="you_buy" need_translate="true" value=""/>
+        <text id="you_dont_buy" need_translate="true" value=""/>
+    </ownership_popup>
+    <person_handler>
+        <text id="cabaret_whirligirl" need_translate="true" value=""/>
+        <text id="celebrities" need_translate="true" value=""/>
+        <text id="firework" need_translate="true" value=""/>
+        <text id="musician" need_translate="true" value=""/>
+        <text id="stand_up_meal" need_translate="true" value=""/>
+    </person_handler>
+    <person_object>
+        <text id="agent" need_translate="true" value=""/>
+        <text id="agent_in_genetive" need_translate="true" value=""/>
+        <text id="assistant" need_translate="true" value=""/>
+        <text id="assistant_director" need_translate="true" value=""/>
+        <text id="assistant_director_in_genetive" need_translate="true" value=""/>
+        <text id="assistant_in_genetive" need_translate="true" value=""/>
+        <text id="ceo" need_translate="true" value=""/>
+        <text id="democrat" need_translate="true" value=""/>
+        <text id="director" need_translate="true" value=""/>
+        <text id="enemy_relation" need_translate="true" value=""/>
+        <text id="friend_relation" need_translate="true" value=""/>
+        <text id="investor" need_translate="true" value=""/>
+        <text id="investor_in_genetive" need_translate="true" value=""/>
+        <text id="loyality_bonus" need_translate="true" value=""/>
+        <text id="married" need_translate="true" value=""/>
+        <text id="neutral_relation" need_translate="true" value=""/>
+        <text id="official" need_translate="true" value=""/>
+        <text id="official_in_genetive" need_translate="true" value=""/>
+        <text id="player" need_translate="true" value=""/>
+        <text id="player_in_genetive" need_translate="true" value=""/>
+        <text id="politician" need_translate="true" value=""/>
+        <text id="politician_in_genetive" need_translate="true" value=""/>
+        <text id="relation_type" need_translate="true" value=""/>
+        <text id="religion_atheist" need_translate="true" value=""/>
+        <text id="religion_buddhist" need_translate="true" value=""/>
+        <text id="religion_christian" need_translate="true" value=""/>
+        <text id="religion_muslim" need_translate="true" value=""/>
+        <text id="republican" need_translate="true" value=""/>
+        <text id="shareholder" need_translate="true" value=""/>
+        <text id="single" need_translate="true" value=""/>
+    </person_object>
+    <person_relations>
+        <text id="influence" need_translate="true" value=""/>
+    </person_relations>
+    <person_selection_window>
+        <text id="assign" need_translate="true" value=""/>
+        <text id="assistant" need_translate="true" value=""/>
+        <text id="chance" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="hire_assistant" need_translate="true" value=""/>
+        <text id="influence_hint_header" need_translate="true" value=""/>
+        <text id="influence_hint_text" need_translate="true" value=""/>
+        <text id="influence_table_header" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="patience" need_translate="true" value=""/>
+        <text id="patience_hint_header" need_translate="true" value=""/>
+        <text id="patience_hint_text" need_translate="true" value=""/>
+        <text id="photo" need_translate="true" value=""/>
+        <text id="select" need_translate="true" value=""/>
+        <text id="select_assistant" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </person_selection_window>
+    <person_skills>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="diplomacy_description" need_translate="true" value=""/>
+        <text id="economics" need_translate="true" value=""/>
+        <text id="economics_description" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_description" need_translate="true" value=""/>
+        <text id="politics" need_translate="true" value=""/>
+        <text id="politics_description" need_translate="true" value=""/>
+    </person_skills>
+    <person_tooltip>
+        <text id="assets" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+    </person_tooltip>
+    <personal_collections>
+        <item_info>
+            <text id="0_0" need_translate="true" value=""/>
+            <text id="0_1" need_translate="true" value=""/>
+            <text id="0_2" need_translate="true" value=""/>
+            <text id="0_3" need_translate="true" value=""/>
+            <text id="0_4" need_translate="true" value=""/>
+            <text id="0_5" need_translate="true" value=""/>
+            <text id="0_6" need_translate="true" value=""/>
+            <text id="0_7" need_translate="true" value=""/>
+            <text id="0_8" need_translate="true" value=""/>
+            <text id="1_0" need_translate="true" value=""/>
+            <text id="1_1" need_translate="true" value=""/>
+            <text id="1_2" need_translate="true" value=""/>
+            <text id="1_3" need_translate="true" value=""/>
+            <text id="1_4" need_translate="true" value=""/>
+            <text id="1_5" need_translate="true" value=""/>
+            <text id="1_6" need_translate="true" value=""/>
+            <text id="1_7" need_translate="true" value=""/>
+            <text id="1_8" need_translate="true" value=""/>
+            <text id="2_0" need_translate="true" value=""/>
+            <text id="2_1" need_translate="true" value=""/>
+            <text id="2_2" need_translate="true" value=""/>
+            <text id="2_3" need_translate="true" value=""/>
+            <text id="2_4" need_translate="true" value=""/>
+            <text id="2_5" need_translate="true" value=""/>
+            <text id="2_6" need_translate="true" value=""/>
+            <text id="2_7" need_translate="true" value=""/>
+            <text id="2_8" need_translate="true" value=""/>
+            <text id="3_0" need_translate="true" value=""/>
+            <text id="3_1" need_translate="true" value=""/>
+            <text id="3_2" need_translate="true" value=""/>
+            <text id="3_3" need_translate="true" value=""/>
+            <text id="3_4" need_translate="true" value=""/>
+            <text id="3_5" need_translate="true" value=""/>
+            <text id="3_6" need_translate="true" value=""/>
+            <text id="3_7" need_translate="true" value=""/>
+            <text id="3_8" need_translate="true" value=""/>
+            <text id="4_0" need_translate="true" value=""/>
+            <text id="4_1" need_translate="true" value=""/>
+            <text id="4_2" need_translate="true" value=""/>
+            <text id="4_3" need_translate="true" value=""/>
+            <text id="4_4" need_translate="true" value=""/>
+            <text id="4_5" need_translate="true" value=""/>
+            <text id="4_6" need_translate="true" value=""/>
+            <text id="4_7" need_translate="true" value=""/>
+            <text id="4_8" need_translate="true" value=""/>
+            <text id="5_0" need_translate="true" value=""/>
+            <text id="5_1" need_translate="true" value=""/>
+            <text id="5_2" need_translate="true" value=""/>
+            <text id="5_3" need_translate="true" value=""/>
+            <text id="5_4" need_translate="true" value=""/>
+            <text id="5_5" need_translate="true" value=""/>
+            <text id="5_6" need_translate="true" value=""/>
+            <text id="5_7" need_translate="true" value=""/>
+            <text id="5_8" need_translate="true" value=""/>
+            <text id="6_0" need_translate="true" value=""/>
+            <text id="6_1" need_translate="true" value=""/>
+            <text id="6_2" need_translate="true" value=""/>
+            <text id="6_3" need_translate="true" value=""/>
+            <text id="6_4" need_translate="true" value=""/>
+            <text id="6_5" need_translate="true" value=""/>
+            <text id="6_6" need_translate="true" value=""/>
+            <text id="6_7" need_translate="true" value=""/>
+            <text id="6_8" need_translate="true" value=""/>
+            <text id="7_0" need_translate="true" value=""/>
+            <text id="7_1" need_translate="true" value=""/>
+            <text id="7_2" need_translate="true" value=""/>
+            <text id="7_3" need_translate="true" value=""/>
+            <text id="7_4" need_translate="true" value=""/>
+            <text id="7_5" need_translate="true" value=""/>
+            <text id="7_6" need_translate="true" value=""/>
+            <text id="7_7" need_translate="true" value=""/>
+            <text id="7_8" need_translate="true" value=""/>
+            <text id="8_0" need_translate="true" value=""/>
+            <text id="8_1" need_translate="true" value=""/>
+            <text id="8_2" need_translate="true" value=""/>
+            <text id="8_3" need_translate="true" value=""/>
+            <text id="8_4" need_translate="true" value=""/>
+            <text id="8_5" need_translate="true" value=""/>
+            <text id="8_6" need_translate="true" value=""/>
+            <text id="8_7" need_translate="true" value=""/>
+            <text id="8_8" need_translate="true" value=""/>
+            <text id="9_0" need_translate="true" value=""/>
+            <text id="9_1" need_translate="true" value=""/>
+            <text id="9_2" need_translate="true" value=""/>
+            <text id="9_3" need_translate="true" value=""/>
+            <text id="9_4" need_translate="true" value=""/>
+            <text id="9_5" need_translate="true" value=""/>
+            <text id="9_6" need_translate="true" value=""/>
+            <text id="9_7" need_translate="true" value=""/>
+            <text id="9_8" need_translate="true" value=""/>
+        </item_info>
+        <item_names>
+            <text id="0_0" need_translate="true" value=""/>
+            <text id="0_1" need_translate="true" value=""/>
+            <text id="0_2" need_translate="true" value=""/>
+            <text id="0_3" need_translate="true" value=""/>
+            <text id="0_4" need_translate="true" value=""/>
+            <text id="0_5" need_translate="true" value=""/>
+            <text id="0_6" need_translate="true" value=""/>
+            <text id="0_7" need_translate="true" value=""/>
+            <text id="0_8" need_translate="true" value=""/>
+            <text id="1_0" need_translate="true" value=""/>
+            <text id="1_1" need_translate="true" value=""/>
+            <text id="1_2" need_translate="true" value=""/>
+            <text id="1_3" need_translate="true" value=""/>
+            <text id="1_4" need_translate="true" value=""/>
+            <text id="1_5" need_translate="true" value=""/>
+            <text id="1_6" need_translate="true" value=""/>
+            <text id="1_7" need_translate="true" value=""/>
+            <text id="1_8" need_translate="true" value=""/>
+            <text id="2_0" need_translate="true" value=""/>
+            <text id="2_1" need_translate="true" value=""/>
+            <text id="2_2" need_translate="true" value=""/>
+            <text id="2_3" need_translate="true" value=""/>
+            <text id="2_4" need_translate="true" value=""/>
+            <text id="2_5" need_translate="true" value=""/>
+            <text id="2_6" need_translate="true" value=""/>
+            <text id="2_7" need_translate="true" value=""/>
+            <text id="2_8" need_translate="true" value=""/>
+            <text id="3_0" need_translate="true" value=""/>
+            <text id="3_1" need_translate="true" value=""/>
+            <text id="3_2" need_translate="true" value=""/>
+            <text id="3_3" need_translate="true" value=""/>
+            <text id="3_4" need_translate="true" value=""/>
+            <text id="3_5" need_translate="true" value=""/>
+            <text id="3_6" need_translate="true" value=""/>
+            <text id="3_7" need_translate="true" value=""/>
+            <text id="3_8" need_translate="true" value=""/>
+            <text id="4_0" need_translate="true" value=""/>
+            <text id="4_1" need_translate="true" value=""/>
+            <text id="4_2" need_translate="true" value=""/>
+            <text id="4_3" need_translate="true" value=""/>
+            <text id="4_4" need_translate="true" value=""/>
+            <text id="4_5" need_translate="true" value=""/>
+            <text id="4_6" need_translate="true" value=""/>
+            <text id="4_7" need_translate="true" value=""/>
+            <text id="4_8" need_translate="true" value=""/>
+            <text id="5_0" need_translate="true" value=""/>
+            <text id="5_1" need_translate="true" value=""/>
+            <text id="5_2" need_translate="true" value=""/>
+            <text id="5_3" need_translate="true" value=""/>
+            <text id="5_4" need_translate="true" value=""/>
+            <text id="5_5" need_translate="true" value=""/>
+            <text id="5_6" need_translate="true" value=""/>
+            <text id="5_7" need_translate="true" value=""/>
+            <text id="5_8" need_translate="true" value=""/>
+            <text id="6_0" need_translate="true" value=""/>
+            <text id="6_1" need_translate="true" value=""/>
+            <text id="6_2" need_translate="true" value=""/>
+            <text id="6_3" need_translate="true" value=""/>
+            <text id="6_4" need_translate="true" value=""/>
+            <text id="6_5" need_translate="true" value=""/>
+            <text id="6_6" need_translate="true" value=""/>
+            <text id="6_7" need_translate="true" value=""/>
+            <text id="6_8" need_translate="true" value=""/>
+            <text id="7_0" need_translate="true" value=""/>
+            <text id="7_1" need_translate="true" value=""/>
+            <text id="7_2" need_translate="true" value=""/>
+            <text id="7_3" need_translate="true" value=""/>
+            <text id="7_4" need_translate="true" value=""/>
+            <text id="7_5" need_translate="true" value=""/>
+            <text id="7_6" need_translate="true" value=""/>
+            <text id="7_7" need_translate="true" value=""/>
+            <text id="7_8" need_translate="true" value=""/>
+            <text id="8_0" need_translate="true" value=""/>
+            <text id="8_1" need_translate="true" value=""/>
+            <text id="8_2" need_translate="true" value=""/>
+            <text id="8_3" need_translate="true" value=""/>
+            <text id="8_4" need_translate="true" value=""/>
+            <text id="8_5" need_translate="true" value=""/>
+            <text id="8_6" need_translate="true" value=""/>
+            <text id="8_7" need_translate="true" value=""/>
+            <text id="8_8" need_translate="true" value=""/>
+            <text id="9_0" need_translate="true" value=""/>
+            <text id="9_1" need_translate="true" value=""/>
+            <text id="9_2" need_translate="true" value=""/>
+            <text id="9_3" need_translate="true" value=""/>
+            <text id="9_4" need_translate="true" value=""/>
+            <text id="9_5" need_translate="true" value=""/>
+            <text id="9_6" need_translate="true" value=""/>
+            <text id="9_7" need_translate="true" value=""/>
+            <text id="9_8" need_translate="true" value=""/>
+        </item_names>
+    </personal_collections>
+    <persons_window>
+        <text id="assets" need_translate="true" value=""/>
+        <text id="luxuries" need_translate="true" value=""/>
+        <text id="person_window" need_translate="true" value=""/>
+        <text id="skills" need_translate="true" value=""/>
+        <text id="summary" need_translate="true" value=""/>
+    </persons_window>
+    <player_events>
+        <text id="back_to_player_window" need_translate="true" value=""/>
+        <text id="cash" need_translate="true" value=""/>
+        <text id="continue" need_translate="true" value=""/>
+        <text id="event_budget" need_translate="true" value=""/>
+        <text id="event_planning" need_translate="true" value=""/>
+        <text id="event_type" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="for_party_you_nees_some_assets" need_translate="true" value=""/>
+        <text id="guests_list" need_translate="true" value=""/>
+        <text id="happen_one_or_two" need_translate="true" value=""/>
+        <text id="hello_mister" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="invited_guests_list" need_translate="true" value=""/>
+        <text id="manage" need_translate="true" value=""/>
+        <text id="player_get_profit" need_translate="true" value=""/>
+        <text id="player_lose_profit" need_translate="true" value=""/>
+        <text id="player_pay_for_rout" need_translate="true" value=""/>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="relation" need_translate="true" value=""/>
+        <text id="relations_decrease" need_translate="true" value=""/>
+        <text id="relations_increase" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="rout" need_translate="true" value=""/>
+        <text id="rout_budget" need_translate="true" value=""/>
+        <text id="rout_events" need_translate="true" value=""/>
+        <text id="rout_resume" need_translate="true" value=""/>
+        <text id="start" need_translate="true" value=""/>
+        <text id="sum_for_one_guest" need_translate="true" value=""/>
+        <text id="surprise_guests" need_translate="true" value=""/>
+        <text id="total" need_translate="true" value=""/>
+        <text id="total_costs" need_translate="true" value=""/>
+        <text id="update_relation_with" need_translate="true" value=""/>
+        <text id="vip_guests" need_translate="true" value=""/>
+        <text id="where_would_you_like_to_be_a_party" need_translate="true" value=""/>
+    </player_events>
+    <player_events_result>
+        <text id="accept" need_translate="true" value=""/>
+        <text id="event_result" need_translate="true" value=""/>
+    </player_events_result>
+    <player_finances_model>
+        <text id="assets" need_translate="true" value=""/>
+        <text id="assistants" need_translate="true" value=""/>
+        <text id="cash" need_translate="true" value=""/>
+        <text id="cash_assets" need_translate="true" value=""/>
+        <text id="debt_certificate" need_translate="true" value=""/>
+        <text id="financial_support" need_translate="true" value=""/>
+        <text id="lending" need_translate="true" value=""/>
+        <text id="loan_from" need_translate="true" value=""/>
+        <text id="other_things" need_translate="true" value=""/>
+        <text id="safety_stock" need_translate="true" value=""/>
+        <text id="taxes" need_translate="true" value=""/>
+    </player_finances_model>
+    <player_finances_window>
+        <text id="credits" need_translate="true" value=""/>
+        <text id="dinamics" need_translate="true" value=""/>
+        <text id="directors_board_salary" need_translate="true" value=""/>
+        <text id="federal_tax" need_translate="true" value=""/>
+        <text id="finances" need_translate="true" value=""/>
+        <text id="finances_and_statistics" need_translate="true" value=""/>
+        <text id="gains_and_costs" need_translate="true" value=""/>
+        <text id="information_button" need_translate="true" value=""/>
+        <text id="leaders_list" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="resume" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="state_tax" need_translate="true" value=""/>
+        <text id="table_header_balance_for_all_time" need_translate="true" value=""/>
+        <text id="table_header_category" need_translate="true" value=""/>
+        <text id="table_header_name" need_translate="true" value=""/>
+        <text id="table_header_profit" need_translate="true" value=""/>
+        <text id="table_header_profitability" need_translate="true" value=""/>
+        <text id="table_header_state" need_translate="true" value=""/>
+        <text id="table_header_summ" need_translate="true" value=""/>
+        <text id="table_leader_name" need_translate="true" value=""/>
+        <text id="total" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </player_finances_window>
+    <player_object>
+        <text id="icon_hint_text" need_translate="true" value=""/>
+        <text id="icon_hint_title" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_of_charisma" need_translate="true" value=""/>
+        <text id="influence_of_companies" need_translate="true" value=""/>
+        <text id="influence_of_friends" need_translate="true" value=""/>
+        <text id="player_bought_some_company_safety_stock_using_other_company" need_translate="true" value=""/>
+        <text id="player_selled_some_company_safety_stock" need_translate="true" value=""/>
+        <text id="politicians" need_translate="true" value=""/>
+        <text id="status_decreased" need_translate="true" value=""/>
+        <text id="status_increased" need_translate="true" value=""/>
+    </player_object>
+    <player_profile>
+        <text id="assets_was_bought" need_translate="true" value=""/>
+        <text id="companies_was_visited" need_translate="true" value=""/>
+        <text id="control_packeges_quantity" need_translate="true" value=""/>
+        <text id="experience" need_translate="true" value=""/>
+        <text id="failed_talks" need_translate="true" value=""/>
+        <text id="for_next_level" need_translate="true" value=""/>
+        <text id="free" need_translate="true" value=""/>
+        <text id="holdings_created" need_translate="true" value=""/>
+        <text id="influence_was_gotten" need_translate="true" value=""/>
+        <text id="influence_was_spent" need_translate="true" value=""/>
+        <text id="learn" need_translate="true" value=""/>
+        <text id="level" need_translate="true" value=""/>
+        <text id="lose_safety_stock_through_drinking" need_translate="true" value=""/>
+        <text id="max_profit" need_translate="true" value=""/>
+        <text id="min_profit" need_translate="true" value=""/>
+        <text id="monopoly_created" need_translate="true" value=""/>
+        <text id="player_profile" need_translate="true" value=""/>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="profile" need_translate="true" value=""/>
+        <text id="quantity_of_glass_at_bar" need_translate="true" value=""/>
+        <text id="routs_organized" need_translate="true" value=""/>
+        <text id="safety_stock_was_bought" need_translate="true" value=""/>
+        <text id="safety_stock_was_selled" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="states_was_visited" need_translate="true" value=""/>
+        <text id="statistics" need_translate="true" value=""/>
+        <text id="successed_talks" need_translate="true" value=""/>
+        <text id="talks_quantity" need_translate="true" value=""/>
+    </player_profile>
+    <player_skills_window>
+        <text id="common_skills" need_translate="true" value=""/>
+        <text id="financial_skills" need_translate="true" value=""/>
+        <text id="max_level_reached" need_translate="true" value=""/>
+        <text id="skill_levelup" need_translate="true" value=""/>
+        <text id="social_skills" need_translate="true" value=""/>
+    </player_skills_window>
+    <player_window>
+        <text id="achievement_window" need_translate="true" value=""/>
+        <text id="agent" need_translate="true" value=""/>
+        <text id="agent_has_no_learned_skills" need_translate="true" value=""/>
+        <text id="agent_hint_header" need_translate="true" value=""/>
+        <text id="agent_hint_text" need_translate="true" value=""/>
+        <text id="agent_is_working" need_translate="true" value=""/>
+        <text id="arrive_to_state" need_translate="true" value=""/>
+        <text id="assets" need_translate="true" value=""/>
+        <text id="assets_hint_header" need_translate="true" value=""/>
+        <text id="assets_hint_text" need_translate="true" value=""/>
+        <text id="assistants_window" need_translate="true" value=""/>
+        <text id="buy_shares" need_translate="true" value=""/>
+        <text id="buy_shares_with_company_name" need_translate="true" value=""/>
+        <text id="calendar_add_date" need_translate="true" value=""/>
+        <text id="calendar_moving" need_translate="true" value=""/>
+        <text id="calendar_no_planned_event" need_translate="true" value=""/>
+        <text id="calendar_rout" need_translate="true" value=""/>
+        <text id="cancel_choose" need_translate="true" value=""/>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="choose_event_date" need_translate="true" value=""/>
+        <text id="compromat_already_exists" need_translate="true" value=""/>
+        <text id="conviction" need_translate="true" value=""/>
+        <text id="convictions" need_translate="true" value=""/>
+        <text id="courtesan_already_exists" need_translate="true" value=""/>
+        <text id="courtesan_only_for_male" need_translate="true" value=""/>
+        <text id="diplomacy_left_area_hint_header" need_translate="true" value=""/>
+        <text id="diplomacy_left_area_hint_text" need_translate="true" value=""/>
+        <text id="economics_left_area_hint_header" need_translate="true" value=""/>
+        <text id="economics_left_area_hint_text" need_translate="true" value=""/>
+        <text id="guests_count_invited_to_route" need_translate="true" value=""/>
+        <text id="her" need_translate="true" value=""/>
+        <text id="him" need_translate="true" value=""/>
+        <text id="hired_assistants" need_translate="true" value=""/>
+        <text id="influence_hint_header" need_translate="true" value=""/>
+        <text id="influence_hint_text" need_translate="true" value=""/>
+        <text id="influence_left_area_hint_header" need_translate="true" value=""/>
+        <text id="influence_left_area_hint_text" need_translate="true" value=""/>
+        <text id="influence_skill_left_area_hint_header" need_translate="true" value=""/>
+        <text id="influence_skill_left_area_hint_text" need_translate="true" value=""/>
+        <text id="make_connection" need_translate="true" value=""/>
+        <text id="make_present" need_translate="true" value=""/>
+        <text id="menu_agent_applied_on_current_step" need_translate="true" value=""/>
+        <text id="menu_assistant" need_translate="true" value=""/>
+        <text id="menu_assistant_fire" need_translate="true" value=""/>
+        <text id="menu_assistant_hire" need_translate="true" value=""/>
+        <text id="menu_corrupt" need_translate="true" value=""/>
+        <text id="menu_is_in_prison" need_translate="true" value=""/>
+        <text id="menu_is_moving" need_translate="true" value=""/>
+        <text id="menu_loan" need_translate="true" value=""/>
+        <text id="menu_loan_already_planned" need_translate="true" value=""/>
+        <text id="menu_loan_different_position" need_translate="true" value=""/>
+        <text id="menu_loan_no_money" need_translate="true" value=""/>
+        <text id="menu_loan_no_positive_profit" need_translate="true" value=""/>
+        <text id="menu_loan_not_friendly" need_translate="true" value=""/>
+        <text id="menu_lobby" need_translate="true" value=""/>
+        <text id="menu_loyality" need_translate="true" value=""/>
+        <text id="menu_loyality_disabled" need_translate="true" value=""/>
+        <text id="menu_loyality_need_to_be_an_control_shareholder" need_translate="true" value=""/>
+        <text id="menu_make_connection" need_translate="true" value=""/>
+        <text id="menu_negotation" need_translate="true" value=""/>
+        <text id="menu_no_agents" need_translate="true" value=""/>
+        <text id="menu_no_company" need_translate="true" value=""/>
+        <text id="menu_not_enough_influence" need_translate="true" value=""/>
+        <text id="menu_ownerships" need_translate="true" value=""/>
+        <text id="menu_person_is_locked" need_translate="true" value=""/>
+        <text id="menu_rout" need_translate="true" value=""/>
+        <text id="menu_use_agent" need_translate="true" value=""/>
+        <text id="missis" need_translate="true" value=""/>
+        <text id="mister" need_translate="true" value=""/>
+        <text id="negotiation_different_position" need_translate="true" value=""/>
+        <text id="negotiation_error" need_translate="true" value=""/>
+        <text id="negotiation_has_talked" need_translate="true" value=""/>
+        <text id="negotiation_low_influence" need_translate="true" value=""/>
+        <text id="negotiation_need_player" need_translate="true" value=""/>
+        <text id="negotiation_not_enough_money_for_negotiation" need_translate="true" value=""/>
+        <text id="negotiation_out_of_days" need_translate="true" value=""/>
+        <text id="negotiation_player_is_in_prison" need_translate="true" value=""/>
+        <text id="no" need_translate="true" value=""/>
+        <text id="no_avaliable_agents" need_translate="true" value=""/>
+        <text id="one_negotiation_in_quarter" need_translate="true" value=""/>
+        <text id="open_rout_window" need_translate="true" value=""/>
+        <text id="ownership_hint_header" need_translate="true" value=""/>
+        <text id="ownership_hint_text" need_translate="true" value=""/>
+        <text id="ownerships" need_translate="true" value=""/>
+        <text id="patience_hint_header" need_translate="true" value=""/>
+        <text id="patience_hint_text" need_translate="true" value=""/>
+        <text id="person_already_invited" need_translate="true" value=""/>
+        <text id="person_info" need_translate="true" value=""/>
+        <text id="person_info_ambitions" need_translate="true" value=""/>
+        <text id="person_info_cash" need_translate="true" value=""/>
+        <text id="person_info_characteristic" need_translate="true" value=""/>
+        <text id="person_info_influence" need_translate="true" value=""/>
+        <text id="person_info_marriage" need_translate="true" value=""/>
+        <text id="person_info_panel_status" need_translate="true" value=""/>
+        <text id="person_info_party" need_translate="true" value=""/>
+        <text id="person_info_prestige" need_translate="true" value=""/>
+        <text id="person_info_profit" need_translate="true" value=""/>
+        <text id="person_info_reputation" need_translate="true" value=""/>
+        <text id="person_info_skill" need_translate="true" value=""/>
+        <text id="person_info_status" need_translate="true" value=""/>
+        <text id="player_locked" need_translate="true" value=""/>
+        <text id="player_patience_hint_header" need_translate="true" value=""/>
+        <text id="politics_left_area_hint_header" need_translate="true" value=""/>
+        <text id="politics_left_area_hint_text" need_translate="true" value=""/>
+        <text id="power_hint_header" need_translate="true" value=""/>
+        <text id="power_hint_text" need_translate="true" value=""/>
+        <text id="power_left_area_hint_header" need_translate="true" value=""/>
+        <text id="power_left_area_hint_text" need_translate="true" value=""/>
+        <text id="relation_hint_header" need_translate="true" value=""/>
+        <text id="relation_hint_text" need_translate="true" value=""/>
+        <text id="relations_header_agent" need_translate="true" value=""/>
+        <text id="relations_header_assets" need_translate="true" value=""/>
+        <text id="relations_header_influence" need_translate="true" value=""/>
+        <text id="relations_header_name" need_translate="true" value=""/>
+        <text id="relations_header_power" need_translate="true" value=""/>
+        <text id="relations_header_relation" need_translate="true" value=""/>
+        <text id="relations_header_weakness" need_translate="true" value=""/>
+        <text id="relations_modelname_0" need_translate="true" value=""/>
+        <text id="relations_modelname_1" need_translate="true" value=""/>
+        <text id="relations_modelname_2" need_translate="true" value=""/>
+        <text id="relations_title" need_translate="true" value=""/>
+        <text id="reputation_left_area_hint_header" need_translate="true" value=""/>
+        <text id="reputation_left_area_hint_text" need_translate="true" value=""/>
+        <text id="required" need_translate="true" value=""/>
+        <text id="skills" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="summary" need_translate="true" value=""/>
+        <text id="trasher_already_exists" need_translate="true" value=""/>
+        <text id="travel_to" need_translate="true" value=""/>
+        <text id="unlock_person_text" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+        <text id="yes" need_translate="true" value=""/>
+    </player_window>
+    <players_view>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_by_step" need_translate="true" value=""/>
+        <text id="money" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="profit_by_step" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+    </players_view>
+    <politican_finance_panel>
+        <text id="financing_by_step" need_translate="true" value=""/>
+        <text id="popularity" need_translate="true" value=""/>
+    </politican_finance_panel>
+    <politican_handler>
+        <text id="console_message_time_cost_because_opponent_marshal_influence" need_translate="true" value=""/>
+        <text id="election_date" need_translate="true" value=""/>
+        <text id="information" need_translate="true" value=""/>
+        <text id="problems" need_translate="true" value=""/>
+        <text id="time_cost_because_opponent_marshal_influence" need_translate="true" value=""/>
+        <text id="you_escape_marshal_pursuit_because_justice_is_your_man" need_translate="true" value=""/>
+    </politican_handler>
+    <politican_object>
+        <text id="congress_candidate" need_translate="true" value=""/>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_candidate" need_translate="true" value=""/>
+        <text id="legislature_congressman" need_translate="true" value=""/>
+        <text id="legislature_congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_senator" need_translate="true" value=""/>
+        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
+        <text id="politician" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="senator_in_genetive" need_translate="true" value=""/>
+    </politican_object>
+    <politican_panel>
+        <text id="bribe_size" need_translate="true" value=""/>
+        <text id="disclosing_risk" need_translate="true" value=""/>
+        <text id="popularity" need_translate="true" value=""/>
+    </politican_panel>
+    <politicans_window>
+        <text id="limited_for_alpha_version" need_translate="true" value=""/>
+        <text id="state_politicans" need_translate="true" value=""/>
+    </politicans_window>
+    <politician_window>
+        <text id="characteristics" need_translate="true" value=""/>
+        <text id="end_term" need_translate="true" value=""/>
+        <text id="end_term_hint" need_translate="true" value=""/>
+        <text id="end_term_hint_text" need_translate="true" value=""/>
+        <text id="fund" need_translate="true" value=""/>
+        <text id="fund_hint" need_translate="true" value=""/>
+        <text id="fund_hint_text" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_change" need_translate="true" value=""/>
+        <text id="influence_change_hint" need_translate="true" value=""/>
+        <text id="influence_change_hint_text" need_translate="true" value=""/>
+        <text id="influence_hint" need_translate="true" value=""/>
+        <text id="influence_hint_text" need_translate="true" value=""/>
+        <text id="party" need_translate="true" value=""/>
+        <text id="party_hint_text" need_translate="true" value=""/>
+        <text id="person" need_translate="true" value=""/>
+        <text id="rating" need_translate="true" value=""/>
+        <text id="rating_hint" need_translate="true" value=""/>
+        <text id="rating_hint_text" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="reputation_hint" need_translate="true" value=""/>
+        <text id="reputation_hint_text" need_translate="true" value=""/>
+        <text id="sponsors" need_translate="true" value=""/>
+        <text id="sponsors_hint" need_translate="true" value=""/>
+        <text id="sponsors_hint_text" need_translate="true" value=""/>
+    </politician_window>
+    <previous_panel>
+        <text id="business_offer " need_translate="true" value=""/>
+        <text id="days" need_translate="true" value=""/>
+        <text id="letter_to_opponent" need_translate="true" value=""/>
+        <text id="meeting" need_translate="true" value=""/>
+        <text id="start_talks" need_translate="true" value=""/>
+        <text id="you_invite_opponent_to_meeting_with_you" need_translate="true" value=""/>
+    </previous_panel>
+    <random_game_events>
+        <text id="following_will_happen" need_translate="true" value=""/>
+        <text id="you_will_get" need_translate="true" value=""/>
+        <text id="you_will_lose" need_translate="true" value=""/>
+    </random_game_events>
+    <relations_handler>
+        <text id="agent_using" need_translate="true" value=""/>
+        <text id="ambitions" need_translate="true" value=""/>
+        <text id="base_relation" need_translate="true" value=""/>
+        <text id="beliefs" need_translate="true" value=""/>
+        <text id="benevolent_or_envious_modifier" need_translate="true" value=""/>
+        <text id="communicability" need_translate="true" value=""/>
+        <text id="control_shareholder_modifier" need_translate="true" value=""/>
+        <text id="convictions_modifier" need_translate="true" value=""/>
+        <text id="corruption" need_translate="true" value=""/>
+        <text id="courtesan" need_translate="true" value=""/>
+        <text id="despicable_act" need_translate="true" value=""/>
+        <text id="failed_negotiation" need_translate="true" value=""/>
+        <text id="hired_assistant" need_translate="true" value=""/>
+        <text id="hired_director" need_translate="true" value=""/>
+        <text id="individual_ambition" need_translate="true" value=""/>
+        <text id="journalist" need_translate="true" value=""/>
+        <text id="network" need_translate="true" value=""/>
+        <text id="ownerships" need_translate="true" value=""/>
+        <text id="personal_request" need_translate="true" value=""/>
+        <text id="previous_negotiations" need_translate="true" value=""/>
+        <text id="total_relation" need_translate="true" value=""/>
+        <text id="unreliability" need_translate="true" value=""/>
+        <text id="voting_for_director" need_translate="true" value=""/>
+    </relations_handler>
+    <relatives>
+        <text id="cousin" need_translate="true" value=""/>
+        <text id="cousin_in_genetive" need_translate="true" value=""/>
+        <text id="daughter" need_translate="true" value=""/>
+        <text id="daughter_in_genetive" need_translate="true" value=""/>
+        <text id="father" need_translate="true" value=""/>
+        <text id="father_in_genetive" need_translate="true" value=""/>
+        <text id="mother" need_translate="true" value=""/>
+        <text id="mother_in_genetive" need_translate="true" value=""/>
+        <text id="son" need_translate="true" value=""/>
+        <text id="son_in_genetive" need_translate="true" value=""/>
+        <text id="uncle" need_translate="true" value=""/>
+        <text id="uncle_in_genetive" need_translate="true" value=""/>
+    </relatives>
+    <release_bond_window>
+        <text id="bond_price" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
+        <text id="exit" need_translate="true" value=""/>
+        <text id="put_sign" need_translate="true" value=""/>
+        <text id="title" need_translate="true" value=""/>
+        <text id="total_cost" need_translate="true" value=""/>
+    </release_bond_window>
+    <save_dialog>
+        <text id="load" need_translate="true" value=""/>
+    </save_dialog>
+    <sb_settings>
+        <text id="avatar_attributes" need_translate="true" value=""/>
+        <text id="avatar_clothes" need_translate="true" value=""/>
+        <text id="avatar_hair" need_translate="true" value=""/>
+        <text id="avatar_type" need_translate="true" value=""/>
+        <text id="big_world" need_translate="true" value=""/>
+        <text id="company_owner" need_translate="true" value=""/>
+        <text id="create" need_translate="true" value=""/>
+        <text id="detail_variant" need_translate="true" value=""/>
+        <text id="dossier" need_translate="true" value=""/>
+        <text id="economy_win" need_translate="true" value=""/>
+        <text id="euroopoid" need_translate="true" value=""/>
+        <text id="exp_investor" need_translate="true" value=""/>
+        <text id="female" need_translate="true" value=""/>
+        <text id="financial_genius" need_translate="true" value=""/>
+        <text id="from_lowest" need_translate="true" value=""/>
+        <text id="game_difficult" need_translate="true" value=""/>
+        <text id="game_target" need_translate="true" value=""/>
+        <text id="game_world" need_translate="true" value=""/>
+        <text id="generate" need_translate="true" value=""/>
+        <text id="gilded_epoch_usa" need_translate="true" value=""/>
+        <text id="glasses_variant" need_translate="true" value=""/>
+        <text id="hair_variant" need_translate="true" value=""/>
+        <text id="influence_count" need_translate="true" value=""/>
+        <text id="large_world" need_translate="true" value=""/>
+        <text id="level" need_translate="true" value=""/>
+        <text id="male" need_translate="true" value=""/>
+        <text id="medium_world" need_translate="true" value=""/>
+        <text id="model_variant" need_translate="true" value=""/>
+        <text id="mongoloid" need_translate="true" value=""/>
+        <text id="monopoly" need_translate="true" value=""/>
+        <text id="name_and_surname" need_translate="true" value=""/>
+        <text id="negroid" need_translate="true" value=""/>
+        <text id="newbie" need_translate="true" value=""/>
+        <text id="no_attributes" need_translate="true" value=""/>
+        <text id="old" need_translate="true" value=""/>
+        <text id="person_age" need_translate="true" value=""/>
+        <text id="person_race" need_translate="true" value=""/>
+        <text id="person_sex" need_translate="true" value=""/>
+        <text id="plutocrat" need_translate="true" value=""/>
+        <text id="politial_influence" need_translate="true" value=""/>
+        <text id="ripe" need_translate="true" value=""/>
+        <text id="save" need_translate="true" value=""/>
+        <text id="select_person" need_translate="true" value=""/>
+        <text id="shark_of_capitalism" need_translate="true" value=""/>
+        <text id="small_world" need_translate="true" value=""/>
+        <text id="start_conditions" need_translate="true" value=""/>
+        <text id="start_time" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="summary" need_translate="true" value=""/>
+        <text id="superiority" need_translate="true" value=""/>
+        <text id="tie_variant" need_translate="true" value=""/>
+        <text id="top" need_translate="true" value=""/>
+        <text id="usa" need_translate="true" value=""/>
+        <text id="vestment_variant" need_translate="true" value=""/>
+        <text id="win_conidition" need_translate="true" value=""/>
+        <text id="world" need_translate="true" value=""/>
+        <text id="world_size" need_translate="true" value=""/>
+        <text id="young" need_translate="true" value=""/>
+    </sb_settings>
+    <settings_window>
+        <text id="2k" need_translate="true" value=""/>
+        <text id="4k" need_translate="true" value=""/>
+        <text id="ability_to_move_in_any_state_while_have_action_point" need_translate="true" value=""/>
+        <text id="apply_changes" need_translate="true" value=""/>
+        <text id="cancel_changes" need_translate="true" value=""/>
+        <text id="ch" need_translate="true" value=""/>
+        <text id="de" need_translate="true" value=""/>
+        <text id="default_save_slot_name" need_translate="true" value=""/>
+        <text id="difficult" need_translate="true" value=""/>
+        <text id="effects_volume" need_translate="true" value=""/>
+        <text id="en" need_translate="true" value=""/>
+        <text id="enter_save_slot_name" need_translate="true" value=""/>
+        <text id="es" need_translate="true" value=""/>
+        <text id="free_game_mode" need_translate="true" value=""/>
+        <text id="game_sounds" need_translate="true" value=""/>
+        <text id="game_will_be_resrart_for_reconfigure" need_translate="true" value=""/>
+        <text id="image_quality" need_translate="true" value=""/>
+        <text id="load_game" need_translate="true" value=""/>
+        <text id="loudly" need_translate="true" value=""/>
+        <text id="map_config" need_translate="true" value=""/>
+        <text id="music" need_translate="true" value=""/>
+        <text id="music_volume" need_translate="true" value=""/>
+        <text id="players_moved_in_random_states_and_can_not_moved" need_translate="true" value=""/>
+        <text id="random_move_mode" need_translate="true" value=""/>
+        <text id="ru" need_translate="true" value=""/>
+        <text id="save_game" need_translate="true" value=""/>
+        <text id="select_language" need_translate="true" value=""/>
+        <text id="softly" need_translate="true" value=""/>
+        <text id="sound_config" need_translate="true" value=""/>
+    </settings_window>
+    <shares_transfer>
+        <text id="player_bought_some_percent_some_company_safety_stock" need_translate="true" value=""/>
+    </shares_transfer>
+    <specific_lang_settings>
+        <text id="date_format" need_translate="true" value=""/>
+        <text id="date_time_format_in_save_load" need_translate="true" value=""/>
+    </specific_lang_settings>
+    <start_negotation_window>
+        <text id="all_shares_price" need_translate="true" value=""/>
+        <text id="cancel_negotiation" need_translate="true" value=""/>
+        <text id="hire_assistant" need_translate="true" value=""/>
+        <text id="negotiation_date" need_translate="true" value=""/>
+        <text id="penalty" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="share_price" need_translate="true" value=""/>
+        <text id="shares_of_company" need_translate="true" value=""/>
+        <text id="start_negotiation" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </start_negotation_window>
+    <state_window>
+        <text id="avg_salary" need_translate="true" value=""/>
+        <text id="companies" need_translate="true" value=""/>
+        <text id="congress" need_translate="true" value=""/>
+        <text id="count" need_translate="true" value=""/>
+        <text id="country" need_translate="true" value=""/>
+        <text id="elite" need_translate="true" value=""/>
+        <text id="federal_tax" need_translate="true" value=""/>
+        <text id="gdp" need_translate="true" value=""/>
+        <text id="gdp_dynamic" need_translate="true" value=""/>
+        <text id="header" need_translate="true" value=""/>
+        <text id="investors" need_translate="true" value=""/>
+        <text id="labour_exchange" need_translate="true" value=""/>
+        <text id="macroeconomic_detail" need_translate="true" value=""/>
+        <text id="officials" need_translate="true" value=""/>
+        <text id="person_tax" need_translate="true" value=""/>
+        <text id="politicians" need_translate="true" value=""/>
+        <text id="population" need_translate="true" value=""/>
+        <text id="population_dynamic" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+        <text id="state_info" need_translate="true" value=""/>
+        <text id="state_view" need_translate="true" value=""/>
+        <text id="trade_balance" need_translate="true" value=""/>
+        <text id="unemployment" need_translate="true" value=""/>
+        <text id="white_house" need_translate="true" value=""/>
+        <text id="world" need_translate="true" value=""/>
+    </state_window>
+    <statistics_popup_handler>
+        <text id="actives" need_translate="true" value=""/>
+        <text id="arrearage" need_translate="true" value=""/>
+        <text id="assets" need_translate="true" value=""/>
+        <text id="assets_summary_total" need_translate="true" value=""/>
+        <text id="assistants" need_translate="true" value=""/>
+        <text id="avaliable_influence" need_translate="true" value=""/>
+        <text id="base_influence" need_translate="true" value=""/>
+        <text id="cash" need_translate="true" value=""/>
+        <text id="companies_influence_change" need_translate="true" value=""/>
+        <text id="company_influence" need_translate="true" value=""/>
+        <text id="confidence_summary_total" need_translate="true" value=""/>
+        <text id="cost" need_translate="true" value=""/>
+        <text id="credits" need_translate="true" value=""/>
+        <text id="directors_salary" need_translate="true" value=""/>
+        <text id="estate_summary_total" need_translate="true" value=""/>
+        <text id="financial_support" need_translate="true" value=""/>
+        <text id="free_cash" need_translate="true" value=""/>
+        <text id="free_influence" need_translate="true" value=""/>
+        <text id="free_influence_description" need_translate="true" value=""/>
+        <text id="influence" need_translate="true" value=""/>
+        <text id="influence_per_day" need_translate="true" value=""/>
+        <text id="influence_summary_total" need_translate="true" value=""/>
+        <text id="inherent" need_translate="true" value=""/>
+        <text id="interest_summary_total" need_translate="true" value=""/>
+        <text id="intrinsic_prestige" need_translate="true" value=""/>
+        <text id="lending_and_obligations" need_translate="true" value=""/>
+        <text id="max_influence" need_translate="true" value=""/>
+        <text id="max_influence_description" need_translate="true" value=""/>
+        <text id="obligations_and_deposits" need_translate="true" value=""/>
+        <text id="ownerships_profit" need_translate="true" value=""/>
+        <text id="passives" need_translate="true" value=""/>
+        <text id="personal_influence_change" need_translate="true" value=""/>
+        <text id="politician_influence" need_translate="true" value=""/>
+        <text id="power" need_translate="true" value=""/>
+        <text id="power_per_step" need_translate="true" value=""/>
+        <text id="prestige" need_translate="true" value=""/>
+        <text id="prestige_from_companies" need_translate="true" value=""/>
+        <text id="prestige_from_ownerships" need_translate="true" value=""/>
+        <text id="prestige_level" need_translate="true" value=""/>
+        <text id="prestige_next_threshold" need_translate="true" value=""/>
+        <text id="prestige_total" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="profit_summary_total" need_translate="true" value=""/>
+        <text id="relation" need_translate="true" value=""/>
+        <text id="reputation" need_translate="true" value=""/>
+        <text id="restore_influence" need_translate="true" value=""/>
+        <text id="safety_stock" need_translate="true" value=""/>
+        <text id="safety_stock_dividents" need_translate="true" value=""/>
+        <text id="summary_cash" need_translate="true" value=""/>
+        <text id="taxes" need_translate="true" value=""/>
+        <text id="total" need_translate="true" value=""/>
+        <text id="total_influence" need_translate="true" value=""/>
+    </statistics_popup_handler>
+    <statistics_window>
+        <text id="administrative_expenses" need_translate="true" value=""/>
+        <text id="bonuse" need_translate="true" value=""/>
+        <text id="company_and_state" need_translate="true" value=""/>
+        <text id="company_name" need_translate="true" value=""/>
+        <text id="dividends" need_translate="true" value=""/>
+        <text id="expenses" need_translate="true" value=""/>
+        <text id="export" need_translate="true" value=""/>
+        <text id="federal_tax" need_translate="true" value=""/>
+        <header>
+            <text id="dynamic" need_translate="true" value=""/>
+            <text id="expenses" need_translate="true" value=""/>
+            <text id="forecast" need_translate="true" value=""/>
+            <text id="industry_dunamic" need_translate="true" value=""/>
+            <text id="leader" need_translate="true" value=""/>
+            <text id="middle" need_translate="true" value=""/>
+            <text id="value" need_translate="true" value=""/>
+        </header>
+        <text id="local_market" need_translate="true" value=""/>
+        <text id="market_part" need_translate="true" value=""/>
+        <text id="proceeds" need_translate="true" value=""/>
+        <text id="productive_expenses" need_translate="true" value=""/>
+        <text id="profit" need_translate="true" value=""/>
+        <text id="profitability" need_translate="true" value=""/>
+        <text id="salary" need_translate="true" value=""/>
+        <text id="state_tax" need_translate="true" value=""/>
+        <text id="taxis" need_translate="true" value=""/>
+        <text id="total_expenses" need_translate="true" value=""/>
+    </statistics_window>
+    <step_switcher>
+        <text id="autumn" need_translate="true" value=""/>
+        <hints>
+            <text id="h_normal" need_translate="true" value=""/>
+            <text id="h_quick" need_translate="true" value=""/>
+            <text id="h_to_event" need_translate="true" value=""/>
+            <text id="t_normal" need_translate="true" value=""/>
+            <text id="t_quick" need_translate="true" value=""/>
+            <text id="t_to_event" need_translate="true" value=""/>
+        </hints>
+        <text id="spring" need_translate="true" value=""/>
+        <text id="summer" need_translate="true" value=""/>
+        <text id="winter" need_translate="true" value=""/>
+    </step_switcher>
+    <under_construction>
+        <text id="build_number" need_translate="true" value=""/>
+        <text id="hello_i_am_test_version_of_game" need_translate="true" value=""/>
+        <text id="less_one_years_old" need_translate="true" value=""/>
+        <text id="lets_start" need_translate="true" value=""/>
+        <text id="my_creators_says" need_translate="true" value=""/>
+        <text id="plutocracy" need_translate="true" value=""/>
+        <text id="press_any_key_to_continue" need_translate="true" value=""/>
+        <text id="truly_yours_alpha_version" need_translate="true" value=""/>
+        <text id="you_can_help_me" need_translate="true" value=""/>
+    </under_construction>
+    <user_statistic>
+        <text id="influence_per_step" need_translate="true" value=""/>
+        <text id="influence_per_step_desc" need_translate="true" value=""/>
+        <text id="interest" need_translate="true" value=""/>
+        <text id="power" need_translate="true" value=""/>
+        <text id="power_desc" need_translate="true" value=""/>
+        <text id="profit_per_step" need_translate="true" value=""/>
+        <text id="state" need_translate="true" value=""/>
+    </user_statistic>
+    <voting_popup>
+        <text id="abstained" need_translate="true" value=""/>
+        <text id="agreed" need_translate="true" value=""/>
+        <text id="apply" need_translate="true" value=""/>
+        <text id="apply_button" need_translate="true" value=""/>
+        <text id="director_offer_hired" need_translate="true" value=""/>
+        <text id="director_offer_not_hired" need_translate="true" value=""/>
+        <text id="disagreed" need_translate="true" value=""/>
+        <text id="skip" need_translate="true" value=""/>
+        <text id="voting" need_translate="true" value=""/>
+        <text id="voting_result" need_translate="true" value=""/>
+    </voting_popup>
+</gui>

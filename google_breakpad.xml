@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<google_breakpad>
+    <crash_dialog>
+        <text id="add_client_email" need_translate="true" value=""/>
+        <text id="apologies" need_translate="true" value=""/>
+        <text id="close_game" need_translate="true" value=""/>
+        <text id="comment" need_translate="true" value=""/>
+        <text id="error_desc" need_translate="true" value=""/>
+        <text id="info_about_send" need_translate="true" value=""/>
+        <text id="send_error_msg" need_translate="true" value=""/>
+        <text id="send_to_redwood" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </crash_dialog>
+</google_breakpad>

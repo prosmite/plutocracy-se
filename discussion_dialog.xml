@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussion_dialog>
+    <discussion_phrase>
+        <text id="100" need_translate="true" value=""/>
+        <text id="101" need_translate="true" value=""/>
+        <text id="102" need_translate="true" value=""/>
+        <text id="1500" need_translate="true" value=""/>
+        <text id="1501" need_translate="true" value=""/>
+        <text id="1600" need_translate="true" value=""/>
+        <text id="1601" need_translate="true" value=""/>
+        <text id="1602" need_translate="true" value=""/>
+        <text id="1700" need_translate="true" value=""/>
+        <text id="1701" need_translate="true" value=""/>
+        <text id="1702" need_translate="true" value=""/>
+        <text id="1703" need_translate="true" value=""/>
+        <text id="1800" need_translate="true" value=""/>
+        <text id="1801" need_translate="true" value=""/>
+        <text id="200" need_translate="true" value=""/>
+        <text id="201" need_translate="true" value=""/>
+        <text id="202" need_translate="true" value=""/>
+        <text id="300" need_translate="true" value=""/>
+        <text id="301" need_translate="true" value=""/>
+        <text id="302" need_translate="true" value=""/>
+        <text id="400" need_translate="true" value=""/>
+        <text id="401" need_translate="true" value=""/>
+        <text id="402" need_translate="true" value=""/>
+        <text id="500" need_translate="true" value=""/>
+        <text id="501" need_translate="true" value=""/>
+        <text id="502" need_translate="true" value=""/>
+        <text id="503" need_translate="true" value=""/>
+        <text id="504" need_translate="true" value=""/>
+        <text id="600" need_translate="true" value=""/>
+        <text id="601" need_translate="true" value=""/>
+        <text id="602" need_translate="true" value=""/>
+        <text id="700" need_translate="true" value=""/>
+        <text id="701" need_translate="true" value=""/>
+        <text id="702" need_translate="true" value=""/>
+        <text id="703" need_translate="true" value=""/>
+    </discussion_phrase>
+</discussion_dialog>

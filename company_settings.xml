@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_settings>
+    <sector_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </sector_1>
+    <sector_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </sector_2>
+    <sector_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </sector_3>
+    <sector_4>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </sector_4>
+    <size_1>
+        <text id="name" need_translate="true" value=""/>
+    </size_1>
+    <size_2>
+        <text id="name" need_translate="true" value=""/>
+    </size_2>
+    <size_3>
+        <text id="name" need_translate="true" value=""/>
+    </size_3>
+    <type_0>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </type_0>
+    <type_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </type_1>
+    <type_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </type_2>
+    <type_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+    </type_3>
+</company_settings>

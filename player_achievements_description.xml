@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_achievements_description>
+    <descriptions>
+        <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="collector" need_translate="true" value=""/>
+        <text id="combinator" need_translate="true" value=""/>
+        <text id="corrupting_power" need_translate="true" value=""/>
+        <text id="country_figure" need_translate="true" value=""/>
+        <text id="diplomat_of_devil" need_translate="true" value=""/>
+        <text id="great_raider" need_translate="true" value=""/>
+        <text id="individual" need_translate="true" value=""/>
+        <text id="local_lobbyist" need_translate="true" value=""/>
+        <text id="local_monopolist" need_translate="true" value=""/>
+        <text id="master_of_secrets" need_translate="true" value=""/>
+        <text id="plutocrat" need_translate="true" value=""/>
+        <text id="political_heavyweight" need_translate="true" value=""/>
+        <text id="regional_figure" need_translate="true" value=""/>
+        <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="themis_master" need_translate="true" value=""/>
+        <text id="us_monopolist" need_translate="true" value=""/>
+        <text id="walk_in_all_doors" need_translate="true" value=""/>
+        <text id="world_monopolist" need_translate="true" value=""/>
+    </descriptions>
+    <descriptions_complete>
+        <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="collector" need_translate="true" value=""/>
+        <text id="combinator" need_translate="true" value=""/>
+        <text id="corrupting_power" need_translate="true" value=""/>
+        <text id="country_figure" need_translate="true" value=""/>
+        <text id="diplomat_of_devil" need_translate="true" value=""/>
+        <text id="great_raider" need_translate="true" value=""/>
+        <text id="individual" need_translate="true" value=""/>
+        <text id="local_lobbyist" need_translate="true" value=""/>
+        <text id="local_monopolist" need_translate="true" value=""/>
+        <text id="master_of_secrets" need_translate="true" value=""/>
+        <text id="plutocrat" need_translate="true" value=""/>
+        <text id="political_heavyweight" need_translate="true" value=""/>
+        <text id="regional_figure" need_translate="true" value=""/>
+        <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="themis_master" need_translate="true" value=""/>
+        <text id="us_monopolist" need_translate="true" value=""/>
+        <text id="walk_in_all_doors" need_translate="true" value=""/>
+        <text id="world_monopolist" need_translate="true" value=""/>
+    </descriptions_complete>
+    <names>
+        <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="collector" need_translate="true" value=""/>
+        <text id="combinator" need_translate="true" value=""/>
+        <text id="corrupting_power" need_translate="true" value=""/>
+        <text id="country_figure" need_translate="true" value=""/>
+        <text id="diplomat_of_devil" need_translate="true" value=""/>
+        <text id="great_raider" need_translate="true" value=""/>
+        <text id="individual" need_translate="true" value=""/>
+        <text id="local_lobbyist" need_translate="true" value=""/>
+        <text id="local_monopolist" need_translate="true" value=""/>
+        <text id="master_of_secrets" need_translate="true" value=""/>
+        <text id="plutocrat" need_translate="true" value=""/>
+        <text id="political_heavyweight" need_translate="true" value=""/>
+        <text id="regional_figure" need_translate="true" value=""/>
+        <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="themis_master" need_translate="true" value=""/>
+        <text id="us_monopolist" need_translate="true" value=""/>
+        <text id="walk_in_all_doors" need_translate="true" value=""/>
+        <text id="world_monopolist" need_translate="true" value=""/>
+    </names>
+    <progress_text>
+        <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="collector" need_translate="true" value=""/>
+        <text id="combinator" need_translate="true" value=""/>
+        <text id="corrupting_power" need_translate="true" value=""/>
+        <text id="country_figure" need_translate="true" value=""/>
+        <text id="diplomat_of_devil" need_translate="true" value=""/>
+        <text id="great_raider" need_translate="true" value=""/>
+        <text id="individual" need_translate="true" value=""/>
+        <text id="local_lobbyist" need_translate="true" value=""/>
+        <text id="local_monopolist" need_translate="true" value=""/>
+        <text id="master_of_secrets" need_translate="true" value=""/>
+        <text id="plutocrat" need_translate="true" value=""/>
+        <text id="political_heavyweight" need_translate="true" value=""/>
+        <text id="regional_figure" need_translate="true" value=""/>
+        <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="themis_master" need_translate="true" value=""/>
+        <text id="us_monopolist" need_translate="true" value=""/>
+        <text id="walk_in_all_doors" need_translate="true" value=""/>
+        <text id="world_monopolist" need_translate="true" value=""/>
+    </progress_text>
+</player_achievements_description>

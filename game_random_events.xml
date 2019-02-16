@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_random_events>
+    <game_event_types>
+        <text id="1_description" need_translate="true" value=""/>
+        <text id="1_title" need_translate="true" value=""/>
+        <text id="2_description" need_translate="true" value=""/>
+        <text id="2_title" need_translate="true" value=""/>
+        <text id="3_description" need_translate="true" value=""/>
+        <text id="3_title" need_translate="true" value=""/>
+        <text id="4_description" need_translate="true" value=""/>
+        <text id="4_title" need_translate="true" value=""/>
+        <text id="5_description" need_translate="true" value=""/>
+        <text id="5_title" need_translate="true" value=""/>
+        <text id="6_description" need_translate="true" value=""/>
+        <text id="6_title" need_translate="true" value=""/>
+        <text id="7_description" need_translate="true" value=""/>
+        <text id="7_title" need_translate="true" value=""/>
+    </game_event_types>
+    <game_events>
+        <text id="agree_button" need_translate="true" value=""/>
+        <text id="cancel_button" need_translate="true" value=""/>
+        <text id="delay_at_way_text" need_translate="true" value=""/>
+        <text id="donate_button" need_translate="true" value=""/>
+        <text id="donate_text_1" need_translate="true" value=""/>
+        <text id="donate_text_2" need_translate="true" value=""/>
+        <text id="hire" need_translate="true" value=""/>
+        <text id="hold_up_text" need_translate="true" value=""/>
+        <text id="horse_down_text" need_translate="true" value=""/>
+        <text id="hot_coffee_text" need_translate="true" value=""/>
+        <text id="pay" need_translate="true" value=""/>
+        <text id="politic_text" need_translate="true" value=""/>
+        <text id="relations" need_translate="true" value=""/>
+        <text id="skirmish" need_translate="true" value=""/>
+        <text id="wait" need_translate="true" value=""/>
+        <text id="win_money_text_1" need_translate="true" value=""/>
+        <text id="win_money_text_2" need_translate="true" value=""/>
+        <text id="win_money_text_3" need_translate="true" value=""/>
+        <text id="win_ok_button_1" need_translate="true" value=""/>
+        <text id="win_ok_button_2" need_translate="true" value=""/>
+        <text id="win_ok_button_3" need_translate="true" value=""/>
+    </game_events>
+</game_random_events>

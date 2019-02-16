@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sandbox_settings>
+    <text id="btn_start_game" need_translate="true" value=""/>
+    <win_settings>
+        <text id="economy" need_translate="true" value=""/>
+        <text id="monopoly" need_translate="true" value=""/>
+        <text id="politial_influence" need_translate="true" value=""/>
+        <text id="superiority" need_translate="true" value=""/>
+    </win_settings>
+    <world_settings>
+        <game_difficult>
+            <text id="financial_genius" need_translate="true" value=""/>
+            <text id="newbie" need_translate="true" value=""/>
+            <text id="plutocrat" need_translate="true" value=""/>
+            <text id="shark_of_capitalism" need_translate="true" value=""/>
+        </game_difficult>
+        <start_condition>
+            <text id="company_owner" need_translate="true" value=""/>
+            <text id="experienced_investor" need_translate="true" value=""/>
+            <text id="low_start" need_translate="true" value=""/>
+        </start_condition>
+        <start_time>
+            <text id="gilded_epoch" need_translate="true" value=""/>
+        </start_time>
+        <world_size>
+            <text id="big" need_translate="true" value=""/>
+            <text id="large" need_translate="true" value=""/>
+            <text id="medium" need_translate="true" value=""/>
+            <text id="small" need_translate="true" value=""/>
+        </world_size>
+    </world_settings>
+</sandbox_settings>

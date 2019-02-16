@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <text id="1" need_translate="true" value=""/>
+        <text id="10" need_translate="true" value=""/>
+        <text id="10_header" need_translate="true" value=""/>
+        <text id="11" need_translate="true" value=""/>
+        <text id="11_header" need_translate="true" value=""/>
+        <text id="12" need_translate="true" value=""/>
+        <text id="12_header" need_translate="true" value=""/>
+        <text id="13" need_translate="true" value=""/>
+        <text id="13_header" need_translate="true" value=""/>
+        <text id="14" need_translate="true" value=""/>
+        <text id="14_header" need_translate="true" value=""/>
+        <text id="15" need_translate="true" value=""/>
+        <text id="15_header" need_translate="true" value=""/>
+        <text id="16" need_translate="true" value=""/>
+        <text id="16_header" need_translate="true" value=""/>
+        <text id="17" need_translate="true" value=""/>
+        <text id="17_header" need_translate="true" value=""/>
+        <text id="18" need_translate="true" value=""/>
+        <text id="18_header" need_translate="true" value=""/>
+        <text id="19" need_translate="true" value=""/>
+        <text id="19_header" need_translate="true" value=""/>
+        <text id="1_header" need_translate="true" value=""/>
+        <text id="2" need_translate="true" value=""/>
+        <text id="20" need_translate="true" value=""/>
+        <text id="20_header" need_translate="true" value=""/>
+        <text id="2_header" need_translate="true" value=""/>
+        <text id="3" need_translate="true" value=""/>
+        <text id="3_header" need_translate="true" value=""/>
+        <text id="4" need_translate="true" value=""/>
+        <text id="4_header" need_translate="true" value=""/>
+        <text id="5" need_translate="true" value=""/>
+        <text id="5_header" need_translate="true" value=""/>
+        <text id="6" need_translate="true" value=""/>
+        <text id="6_header" need_translate="true" value=""/>
+        <text id="7" need_translate="true" value=""/>
+        <text id="7_header" need_translate="true" value=""/>
+        <text id="8" need_translate="true" value=""/>
+        <text id="8_header" need_translate="true" value=""/>
+        <text id="9" need_translate="true" value=""/>
+        <text id="9_header" need_translate="true" value=""/>
+    </event>
+    <event_button>
+        <text id="button_text_10_1" need_translate="true" value=""/>
+        <text id="button_text_10_2" need_translate="true" value=""/>
+        <text id="button_text_10_3" need_translate="true" value=""/>
+        <text id="button_text_11_1" need_translate="true" value=""/>
+        <text id="button_text_11_2" need_translate="true" value=""/>
+        <text id="button_text_11_3" need_translate="true" value=""/>
+        <text id="button_text_12_1" need_translate="true" value=""/>
+        <text id="button_text_12_2" need_translate="true" value=""/>
+        <text id="button_text_12_3" need_translate="true" value=""/>
+        <text id="button_text_13_1" need_translate="true" value=""/>
+        <text id="button_text_13_2" need_translate="true" value=""/>
+        <text id="button_text_13_3" need_translate="true" value=""/>
+        <text id="button_text_14_1" need_translate="true" value=""/>
+        <text id="button_text_14_2" need_translate="true" value=""/>
+        <text id="button_text_14_3" need_translate="true" value=""/>
+        <text id="button_text_15_1" need_translate="true" value=""/>
+        <text id="button_text_15_2" need_translate="true" value=""/>
+        <text id="button_text_15_3" need_translate="true" value=""/>
+        <text id="button_text_16_1" need_translate="true" value=""/>
+        <text id="button_text_16_2" need_translate="true" value=""/>
+        <text id="button_text_16_3" need_translate="true" value=""/>
+        <text id="button_text_17_1" need_translate="true" value=""/>
+        <text id="button_text_17_2" need_translate="true" value=""/>
+        <text id="button_text_17_3" need_translate="true" value=""/>
+        <text id="button_text_18_1" need_translate="true" value=""/>
+        <text id="button_text_18_2" need_translate="true" value=""/>
+        <text id="button_text_18_3" need_translate="true" value=""/>
+        <text id="button_text_19_1" need_translate="true" value=""/>
+        <text id="button_text_19_2" need_translate="true" value=""/>
+        <text id="button_text_19_3" need_translate="true" value=""/>
+        <text id="button_text_1_1" need_translate="true" value=""/>
+        <text id="button_text_1_2" need_translate="true" value=""/>
+        <text id="button_text_1_3" need_translate="true" value=""/>
+        <text id="button_text_20_1" need_translate="true" value=""/>
+        <text id="button_text_20_2" need_translate="true" value=""/>
+        <text id="button_text_20_3" need_translate="true" value=""/>
+        <text id="button_text_2_1" need_translate="true" value=""/>
+        <text id="button_text_2_2" need_translate="true" value=""/>
+        <text id="button_text_2_3" need_translate="true" value=""/>
+        <text id="button_text_3_1" need_translate="true" value=""/>
+        <text id="button_text_3_2" need_translate="true" value=""/>
+        <text id="button_text_3_3" need_translate="true" value=""/>
+        <text id="button_text_4_1" need_translate="true" value=""/>
+        <text id="button_text_4_2" need_translate="true" value=""/>
+        <text id="button_text_4_3" need_translate="true" value=""/>
+        <text id="button_text_5_1" need_translate="true" value=""/>
+        <text id="button_text_5_2" need_translate="true" value=""/>
+        <text id="button_text_5_3" need_translate="true" value=""/>
+        <text id="button_text_6_1" need_translate="true" value=""/>
+        <text id="button_text_6_2" need_translate="true" value=""/>
+        <text id="button_text_6_3" need_translate="true" value=""/>
+        <text id="button_text_7_1" need_translate="true" value=""/>
+        <text id="button_text_7_2" need_translate="true" value=""/>
+        <text id="button_text_7_3" need_translate="true" value=""/>
+        <text id="button_text_8_1" need_translate="true" value=""/>
+        <text id="button_text_8_2" need_translate="true" value=""/>
+        <text id="button_text_8_3" need_translate="true" value=""/>
+        <text id="button_text_9_1" need_translate="true" value=""/>
+        <text id="button_text_9_2" need_translate="true" value=""/>
+        <text id="button_text_9_3" need_translate="true" value=""/>
+    </event_button>
+    <event_result>
+        <text id="bad_luck" need_translate="true" value=""/>
+        <text id="good_luck" need_translate="true" value=""/>
+    </event_result>
+    <player_resource>
+        <text id="1" need_translate="true" value=""/>
+        <text id="2" need_translate="true" value=""/>
+        <text id="3" need_translate="true" value=""/>
+        <text id="4" need_translate="true" value=""/>
+        <text id="5" need_translate="true" value=""/>
+    </player_resource>
+    <rout_option>
+        <text id="1" need_translate="true" value=""/>
+        <text id="2" need_translate="true" value=""/>
+        <text id="3" need_translate="true" value=""/>
+        <text id="4" need_translate="true" value=""/>
+        <text id="5" need_translate="true" value=""/>
+    </rout_option>
+</events>

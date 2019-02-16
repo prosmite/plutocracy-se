@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citations>
+    <citations>
+        <text id="1_1" need_translate="true" value=""/>
+        <text id="1_2" need_translate="true" value=""/>
+        <text id="1_3" need_translate="true" value=""/>
+        <text id="1_4" need_translate="true" value=""/>
+        <text id="1_5" need_translate="true" value=""/>
+        <text id="1_6" need_translate="true" value=""/>
+        <text id="1_7" need_translate="true" value=""/>
+        <text id="1_8" need_translate="true" value=""/>
+        <text id="2_1" need_translate="true" value=""/>
+        <text id="2_10" need_translate="true" value=""/>
+        <text id="2_2" need_translate="true" value=""/>
+        <text id="2_3" need_translate="true" value=""/>
+        <text id="2_4" need_translate="true" value=""/>
+        <text id="2_6" need_translate="true" value=""/>
+        <text id="2_7" need_translate="true" value=""/>
+        <text id="2_8" need_translate="true" value=""/>
+        <text id="2_9" need_translate="true" value=""/>
+        <text id="3_1" need_translate="true" value=""/>
+        <text id="3_2" need_translate="true" value=""/>
+        <text id="3_3" need_translate="true" value=""/>
+        <text id="3_4" need_translate="true" value=""/>
+        <text id="3_5" need_translate="true" value=""/>
+        <text id="3_6" need_translate="true" value=""/>
+        <text id="3_7" need_translate="true" value=""/>
+        <text id="3_8" need_translate="true" value=""/>
+        <text id="4_1" need_translate="true" value=""/>
+        <text id="4_10" need_translate="true" value=""/>
+        <text id="4_11" need_translate="true" value=""/>
+        <text id="4_12" need_translate="true" value=""/>
+        <text id="4_2" need_translate="true" value=""/>
+        <text id="4_3" need_translate="true" value=""/>
+        <text id="4_4" need_translate="true" value=""/>
+        <text id="4_5" need_translate="true" value=""/>
+        <text id="4_6" need_translate="true" value=""/>
+        <text id="4_7" need_translate="true" value=""/>
+        <text id="4_8" need_translate="true" value=""/>
+        <text id="4_9" need_translate="true" value=""/>
+        <text id="5_1" need_translate="true" value=""/>
+        <text id="5_10" need_translate="true" value=""/>
+        <text id="5_2" need_translate="true" value=""/>
+        <text id="5_3" need_translate="true" value=""/>
+        <text id="5_4" need_translate="true" value=""/>
+        <text id="5_5" need_translate="true" value=""/>
+        <text id="5_6" need_translate="true" value=""/>
+        <text id="5_7" need_translate="true" value=""/>
+        <text id="5_8" need_translate="true" value=""/>
+        <text id="5_9" need_translate="true" value=""/>
+        <text id="8_1" need_translate="true" value=""/>
+        <text id="8_2" need_translate="true" value=""/>
+        <text id="8_3" need_translate="true" value=""/>
+        <text id="8_4" need_translate="true" value=""/>
+        <text id="8_5" need_translate="true" value=""/>
+        <text id="8_6" need_translate="true" value=""/>
+        <text id="8_7" need_translate="true" value=""/>
+        <text id="8_8" need_translate="true" value=""/>
+        <text id="8_9" need_translate="true" value=""/>
+    </citations>
+    <person_1>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_1>
+    <person_2>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_2>
+    <person_3>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_3>
+    <person_4>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_4>
+    <person_5>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_5>
+    <person_6>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_6>
+    <person_7>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_7>
+    <person_8>
+        <text id="name" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </person_8>
+</citations>

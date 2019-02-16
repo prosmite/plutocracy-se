@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<politicians>
+    <descriptions>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="marshal" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="state_treasurer" need_translate="true" value=""/>
+        <text id="сhief_police" need_translate="true" value=""/>
+    </descriptions>
+    <role_names>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="marshal" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="state_treasurer" need_translate="true" value=""/>
+        <text id="сhief_police" need_translate="true" value=""/>
+    </role_names>
+</politicians>

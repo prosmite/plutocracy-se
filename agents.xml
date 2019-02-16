@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agents>
+    <agent_class>
+        <text id="class_1" need_translate="true" value=""/>
+        <text id="class_2" need_translate="true" value=""/>
+        <text id="class_3" need_translate="true" value=""/>
+        <text id="class_4" need_translate="true" value=""/>
+        <text id="class_5" need_translate="true" value=""/>
+        <text id="class_6" need_translate="true" value=""/>
+        <text id="class_7" need_translate="true" value=""/>
+        <text id="class_8" need_translate="true" value=""/>
+        <text id="no_data" need_translate="true" value=""/>
+    </agent_class>
+    <agent_result>
+        <text id="1_1_1_female" need_translate="true" value=""/>
+        <text id="1_1_1_male" need_translate="true" value=""/>
+        <text id="1_1_2_female" need_translate="true" value=""/>
+        <text id="1_1_2_male" need_translate="true" value=""/>
+        <text id="1_1_3_female" need_translate="true" value=""/>
+        <text id="1_1_3_male" need_translate="true" value=""/>
+        <text id="1_2_1_female" need_translate="true" value=""/>
+        <text id="1_2_1_male" need_translate="true" value=""/>
+        <text id="1_2_2_female" need_translate="true" value=""/>
+        <text id="1_2_2_male" need_translate="true" value=""/>
+        <text id="1_2_3_female" need_translate="true" value=""/>
+        <text id="1_2_3_male" need_translate="true" value=""/>
+        <text id="1_3_1_female" need_translate="true" value=""/>
+        <text id="1_3_1_male" need_translate="true" value=""/>
+        <text id="1_3_2_female" need_translate="true" value=""/>
+        <text id="1_3_2_male" need_translate="true" value=""/>
+        <text id="1_3_3_female" need_translate="true" value=""/>
+        <text id="1_3_3_male" need_translate="true" value=""/>
+        <text id="2_1_1_female" need_translate="true" value=""/>
+        <text id="2_1_1_male" need_translate="true" value=""/>
+        <text id="2_1_2_female" need_translate="true" value=""/>
+        <text id="2_1_2_male" need_translate="true" value=""/>
+        <text id="2_1_3_female" need_translate="true" value=""/>
+        <text id="2_1_3_male" need_translate="true" value=""/>
+        <text id="2_2_1_female" need_translate="true" value=""/>
+        <text id="2_2_1_male" need_translate="true" value=""/>
+        <text id="2_2_2_female" need_translate="true" value=""/>
+        <text id="2_2_2_male" need_translate="true" value=""/>
+        <text id="2_2_3_female" need_translate="true" value=""/>
+        <text id="2_2_3_male" need_translate="true" value=""/>
+        <text id="2_3_1_female" need_translate="true" value=""/>
+        <text id="2_3_1_male" need_translate="true" value=""/>
+        <text id="2_3_2_female" need_translate="true" value=""/>
+        <text id="2_3_2_male" need_translate="true" value=""/>
+        <text id="2_3_3_female" need_translate="true" value=""/>
+        <text id="2_3_3_male" need_translate="true" value=""/>
+        <text id="3_1_1_female" need_translate="true" value=""/>
+        <text id="3_1_1_male" need_translate="true" value=""/>
+        <text id="3_1_2_female" need_translate="true" value=""/>
+        <text id="3_1_2_male" need_translate="true" value=""/>
+        <text id="3_1_3_female" need_translate="true" value=""/>
+        <text id="3_1_3_male" need_translate="true" value=""/>
+        <text id="3_2_1_female" need_translate="true" value=""/>
+        <text id="3_2_1_male" need_translate="true" value=""/>
+        <text id="3_2_2_female" need_translate="true" value=""/>
+        <text id="3_2_2_male" need_translate="true" value=""/>
+        <text id="3_2_3_female" need_translate="true" value=""/>
+        <text id="3_2_3_male" need_translate="true" value=""/>
+        <text id="3_3_1_female" need_translate="true" value=""/>
+        <text id="3_3_1_male" need_translate="true" value=""/>
+        <text id="3_3_2_female" need_translate="true" value=""/>
+        <text id="3_3_2_male" need_translate="true" value=""/>
+        <text id="3_3_3_female" need_translate="true" value=""/>
+        <text id="3_3_3_male" need_translate="true" value=""/>
+        <text id="4_1_1_female" need_translate="true" value=""/>
+        <text id="4_1_1_male" need_translate="true" value=""/>
+        <text id="4_1_2_female" need_translate="true" value=""/>
+        <text id="4_1_2_male" need_translate="true" value=""/>
+        <text id="4_1_3_female" need_translate="true" value=""/>
+        <text id="4_1_3_male" need_translate="true" value=""/>
+        <text id="4_2_1_female" need_translate="true" value=""/>
+        <text id="4_2_1_male" need_translate="true" value=""/>
+        <text id="4_2_2_female" need_translate="true" value=""/>
+        <text id="4_2_2_male" need_translate="true" value=""/>
+        <text id="4_2_3_female" need_translate="true" value=""/>
+        <text id="4_2_3_male" need_translate="true" value=""/>
+        <text id="4_3_1_female" need_translate="true" value=""/>
+        <text id="4_3_1_male" need_translate="true" value=""/>
+        <text id="4_3_2_female" need_translate="true" value=""/>
+        <text id="4_3_2_male" need_translate="true" value=""/>
+        <text id="4_3_3_female" need_translate="true" value=""/>
+        <text id="4_3_3_male" need_translate="true" value=""/>
+        <text id="5_1_1_female" need_translate="true" value=""/>
+        <text id="5_1_1_male" need_translate="true" value=""/>
+        <text id="5_1_2_female" need_translate="true" value=""/>
+        <text id="5_1_2_male" need_translate="true" value=""/>
+        <text id="5_1_3_female" need_translate="true" value=""/>
+        <text id="5_1_3_male" need_translate="true" value=""/>
+        <text id="5_2_1_female" need_translate="true" value=""/>
+        <text id="5_2_1_male" need_translate="true" value=""/>
+        <text id="5_2_2_female" need_translate="true" value=""/>
+        <text id="5_2_2_male" need_translate="true" value=""/>
+        <text id="5_2_3_female" need_translate="true" value=""/>
+        <text id="5_2_3_male" need_translate="true" value=""/>
+        <text id="5_3_1_female" need_translate="true" value=""/>
+        <text id="5_3_1_male" need_translate="true" value=""/>
+        <text id="5_3_2_female" need_translate="true" value=""/>
+        <text id="5_3_2_male" need_translate="true" value=""/>
+        <text id="5_3_3_female" need_translate="true" value=""/>
+        <text id="5_3_3_male" need_translate="true" value=""/>
+        <text id="6_1_1_female" need_translate="true" value=""/>
+        <text id="6_1_1_male" need_translate="true" value=""/>
+        <text id="6_1_2_female" need_translate="true" value=""/>
+        <text id="6_1_2_male" need_translate="true" value=""/>
+        <text id="6_1_3_female" need_translate="true" value=""/>
+        <text id="6_1_3_male" need_translate="true" value=""/>
+        <text id="6_2_1_female" need_translate="true" value=""/>
+        <text id="6_2_1_male" need_translate="true" value=""/>
+        <text id="6_2_2_female" need_translate="true" value=""/>
+        <text id="6_2_2_male" need_translate="true" value=""/>
+        <text id="6_2_3_female" need_translate="true" value=""/>
+        <text id="6_2_3_male" need_translate="true" value=""/>
+        <text id="6_3_1_female" need_translate="true" value=""/>
+        <text id="6_3_1_male" need_translate="true" value=""/>
+        <text id="6_3_2_female" need_translate="true" value=""/>
+        <text id="6_3_2_male" need_translate="true" value=""/>
+        <text id="6_3_3_female" need_translate="true" value=""/>
+        <text id="6_3_3_male" need_translate="true" value=""/>
+        <text id="agent_failed" need_translate="true" value=""/>
+        <text id="agent_on_suspect" need_translate="true" value=""/>
+    </agent_result>
+    <agent_skill_abduction>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_abduction>
+    <agent_skill_bandit_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_bandit_1>
+    <agent_skill_bandit_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_bandit_2>
+    <agent_skill_bandit_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_bandit_3>
+    <agent_skill_beating>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_beating>
+    <agent_skill_courtesan_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_courtesan_1>
+    <agent_skill_courtesan_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_courtesan_2>
+    <agent_skill_courtesan_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_courtesan_3>
+    <agent_skill_detective_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_detective_1>
+    <agent_skill_detective_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_detective_2>
+    <agent_skill_detective_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_detective_3>
+    <agent_skill_journalist_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_journalist_1>
+    <agent_skill_journalist_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_journalist_2>
+    <agent_skill_journalist_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_journalist_3>
+    <agent_skill_murder_gun>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_murder_gun>
+    <agent_skill_murder_knife>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_murder_knife>
+    <agent_skill_murder_poison>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_murder_poison>
+    <agent_skill_threat>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="negative_result" need_translate="true" value=""/>
+        <text id="positive_result" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+    </agent_skill_threat>
+    <agents_bandit>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_bandit>
+    <agents_courtesan>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_courtesan>
+    <agents_detective>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_detective>
+    <agents_diplomat>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_diplomat>
+    <agents_financier>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_financier>
+    <agents_journalist>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_journalist>
+    <agents_killer>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_killer>
+    <agents_trasher>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="true" value=""/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="true" value=""/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="true" value=""/>
+    </agents_trasher>
+</agents>
