@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agents>
     <agent_class>
-        <text id="class_1" need_translate="true" value=""/>
-        <text id="class_2" need_translate="true" value=""/>
-        <text id="class_3" need_translate="true" value=""/>
-        <text id="class_4" need_translate="true" value=""/>
-        <text id="class_5" need_translate="true" value=""/>
-        <text id="class_6" need_translate="true" value=""/>
-        <text id="class_7" need_translate="true" value=""/>
-        <text id="class_8" need_translate="true" value=""/>
-        <text id="no_data" need_translate="true" value=""/>
+        <text id="class_1" need_translate="false" value="Brottsling"/>
+        <text id="class_2" need_translate="false" value="Kurtisan"/>
+        <text id="class_3" need_translate="false" value="Detektiv"/>
+        <text id="class_4" need_translate="false" value="Journalist"/>
+        <text id="class_5" need_translate="false" value="Gangster"/>
+        <text id="class_6" need_translate="false" value="Lönmödare"/>
+        <text id="class_7" need_translate="false" value="Diplmat"/>
+        <text id="class_8" need_translate="false" value="Finansiär"/>
+        <text id="no_data" need_translate="flase" value=""/>
     </agent_class>
     <agent_result>
-        <text id="1_1_1_female" need_translate="true" value=""/>
-        <text id="1_1_1_male" need_translate="true" value=""/>
-        <text id="1_1_2_female" need_translate="true" value=""/>
-        <text id="1_1_2_male" need_translate="true" value=""/>
-        <text id="1_1_3_female" need_translate="true" value=""/>
-        <text id="1_1_3_male" need_translate="true" value=""/>
-        <text id="1_2_1_female" need_translate="true" value=""/>
-        <text id="1_2_1_male" need_translate="true" value=""/>
-        <text id="1_2_2_female" need_translate="true" value=""/>
-        <text id="1_2_2_male" need_translate="true" value=""/>
-        <text id="1_2_3_female" need_translate="true" value=""/>
-        <text id="1_2_3_male" need_translate="true" value=""/>
-        <text id="1_3_1_female" need_translate="true" value=""/>
-        <text id="1_3_1_male" need_translate="true" value=""/>
-        <text id="1_3_2_female" need_translate="true" value=""/>
-        <text id="1_3_2_male" need_translate="true" value=""/>
-        <text id="1_3_3_female" need_translate="true" value=""/>
-        <text id="1_3_3_male" need_translate="true" value=""/>
-        <text id="2_1_1_female" need_translate="true" value=""/>
-        <text id="2_1_1_male" need_translate="true" value=""/>
-        <text id="2_1_2_female" need_translate="true" value=""/>
-        <text id="2_1_2_male" need_translate="true" value=""/>
-        <text id="2_1_3_female" need_translate="true" value=""/>
+        <text id="1_1_1_female" need_translate="false" value="När man hänger upp och ner, kommer förstålesen snabbt, lika snabbt som om man faller från åttonde våningen..."/>
+        <text id="1_1_1_male" need_translate="false" value="När man hänger upp och ner, kommer förstålesen snabbt, lika snabbt som om man faller från åttonde våningen..."/>
+        <text id="1_1_2_female" need_translate="false" value="Efter lite 'om skollnings arbete', så kommer klinenten att vara redo att gå igenom förslaget!"/>
+        <text id="1_1_2_male" need_translate="false" value="Efter lite 'om skollnings arbete', så kommer klinenten att vara redo att gå igenom förslaget!"/>
+        <text id="1_1_3_female" need_translate="false" value="Han försökte att övertala mig... Men, i alla fall så kommer han att möta dig halvägs nu!"/>
+        <text id="1_1_3_male" need_translate="false" value="Han försökte att övertala mig att gå... Men, i alla fall så kommer han att möta dig halvägs nu!"/>
+        <text id="1_2_1_female" need_translate="false" value="Han försökte att övertala mig att gå... Men, i alla fall så kommer han att möta dig halvägs nu!"/>
+        <text id="1_2_1_male" need_translate="false" value="Tyvärr så kunde jag inte ta henne på plats. Jag antar att hon viste att jag skulle komma och hälsa på... Nu så gömmer hon sig ifrpn mig."/>
+        <text id="1_2_2_female" need_translate="false" value="Tyvärr så kunde jag inte ta henne på plats. Jag antar att hon viste att jag skulle komma och hälsa på... Nu så gömmer hon sig ifrån mig."/>
+        <text id="1_2_2_male" need_translate="false" value="Tyvärr så kunde jag inte ta honom på plats. Jag antar att han viste att jag skulle komma och hälsa på... Nu så gömmer han sig ifrån mig."/>
+        <text id="1_2_3_female" need_translate="false" value="Någon ringde polisen... Jag var tvungen att gå iväg! Jag skulle varit mer försiktig!"/>
+        <text id="1_2_3_male" need_translate="false" value="Någon ringde polisen... Jag var tvungen att gå iväg! Jag skulle varit mer försiktig!"/>
+        <text id="1_3_1_female" need_translate="false" value="Jag gick för långt... Hon är på sjukhuset. Jag tror att vi har ett problem - hon är redo att vara ett vittnesmål för polisen nu!"/>
+        <text id="1_3_1_male" need_translate="false" value="Jag gick för långt... han är på sjukhuset. Jag tror att vi har ett problem - han är redo att vara ett vittnesmål för polisen nu!"/>
+        <text id="1_3_2_female" need_translate="false" value="Jag hade inget val, de hade min rygg upp mot väggen... antagligen så ringde den där jävla sekreteraren polisen... Fan! Det är bra att brosan jobbar för polisen. Du borde göra dig redo för oväntade gäster, bara för säkerhetens skull."/>
+        <text id="1_3_2_male" need_translate="false" value="Jag hade inget val, de hade min rygg upp mot väggen... antagligen så ringde den där jävla sekreteraren polisen... Fan! Det är bra att brosan jobbar för polisen. Du borde göra dig redo för oväntade gäster, bara för säkerhetens skull."/>
+        <text id="1_3_3_female" need_translate="false" value="Jag tappade tiden bär jag förklarade en fråga... Grannarna antog att något var snett och ringe polisen. Jag var att smita och jag kan ha lämnat kvar några av mina fingertryck."/>
+        <text id="1_3_3_male" need_translate="false" value="Jag tappade tiden bär jag förklarade en fråga... Grannarna antog att något var snett och ringe polisen. Jag var att smita och jag kan ha lämnat kvar några av mina fingertryck."/>
+        <text id="2_1_1_female" need_translate="false" value="Precis vad jag trodde, alla har sina hemligheter... Jag tror denna information är tillräcklig att utpressa henne."/>
+        <text id="2_1_1_male" need_translate="false" value="Precis vad jag trodde, alla har sina hemligheter... Jag tror denna information är tillräcklig att utpressa henne."/>
+        <text id="2_1_2_female" need_translate="false" value="Ha, det var så enkelt, hon viste inte ens att hon sa allt jag ville höra... he-he-he."/>
+        <text id="2_1_2_male" need_translate="false" value="Ha, det var så enkelt, hon viste inte ens att han sa allt jag ville höra... he-he-he."/>
+        <text id="2_1_3_female" need_translate="true" value="Först så verkade hon omåttaglig"/>
         <text id="2_1_3_male" need_translate="true" value=""/>
         <text id="2_2_1_female" need_translate="true" value=""/>
         <text id="2_2_1_male" need_translate="true" value=""/>
