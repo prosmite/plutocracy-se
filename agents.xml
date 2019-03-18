@@ -34,38 +34,38 @@
         <text id="2_1_1_male" need_translate="false" value="Precis vad jag trodde, alla har sina hemligheter... Jag tror denna information är tillräcklig att utpressa henne."/>
         <text id="2_1_2_female" need_translate="false" value="Ha, det var så enkelt, hon viste inte ens att hon sa allt jag ville höra... he-he-he."/>
         <text id="2_1_2_male" need_translate="false" value="Ha, det var så enkelt, hon viste inte ens att han sa allt jag ville höra... he-he-he."/>
-        <text id="2_1_3_female" need_translate="true" value="Först så verkade hon omåttaglig"/>
-        <text id="2_1_3_male" need_translate="true" value=""/>
-        <text id="2_2_1_female" need_translate="true" value=""/>
-        <text id="2_2_1_male" need_translate="true" value=""/>
-        <text id="2_2_2_female" need_translate="true" value=""/>
-        <text id="2_2_2_male" need_translate="true" value=""/>
-        <text id="2_2_3_female" need_translate="true" value=""/>
-        <text id="2_2_3_male" need_translate="true" value=""/>
-        <text id="2_3_1_female" need_translate="true" value=""/>
-        <text id="2_3_1_male" need_translate="true" value=""/>
-        <text id="2_3_2_female" need_translate="true" value=""/>
-        <text id="2_3_2_male" need_translate="true" value=""/>
-        <text id="2_3_3_female" need_translate="true" value=""/>
-        <text id="2_3_3_male" need_translate="true" value=""/>
-        <text id="3_1_1_female" need_translate="true" value=""/>
-        <text id="3_1_1_male" need_translate="true" value=""/>
-        <text id="3_1_2_female" need_translate="true" value=""/>
-        <text id="3_1_2_male" need_translate="true" value=""/>
-        <text id="3_1_3_female" need_translate="true" value=""/>
-        <text id="3_1_3_male" need_translate="true" value=""/>
-        <text id="3_2_1_female" need_translate="true" value=""/>
-        <text id="3_2_1_male" need_translate="true" value=""/>
-        <text id="3_2_2_female" need_translate="true" value=""/>
-        <text id="3_2_2_male" need_translate="true" value=""/>
-        <text id="3_2_3_female" need_translate="true" value=""/>
-        <text id="3_2_3_male" need_translate="true" value=""/>
-        <text id="3_3_1_female" need_translate="true" value=""/>
-        <text id="3_3_1_male" need_translate="true" value=""/>
-        <text id="3_3_2_female" need_translate="true" value=""/>
-        <text id="3_3_2_male" need_translate="true" value=""/>
-        <text id="3_3_3_female" need_translate="true" value=""/>
-        <text id="3_3_3_male" need_translate="true" value=""/>
+        <text id="2_1_3_female" need_translate="false" value="Först så verkade hon otillgänglig men synder finns för att njutas av, eller hur? Det var ju det du ville."/>
+        <text id="2_1_3_male" need_translate="false" value="Först så verkade han otillgänglig men synder finns för att njutas av, eller hur? Det var ju det du ville."/>
+        <text id="2_2_1_female" need_translate="false" value="Förmodligen så har hon problem med kvinnor!!! Jag kunde inte ens prata med henne."/>
+        <text id="2_2_1_male" need_translate="false" value="Förmodligen så har han problem med kvinnor!!! Jävla gubb jävvel! Jag kunde inte ens prata med honom"/>
+        <text id="2_2_2_female" need_translate="false" value="Jag har gjort mitt bästa, jag kunde inte få det du ville ha."/>
+        <text id="2_2_2_male" need_translate="false" value="Jag har gjort mitt bästa, jag kunde inte få det du ville ha."/>
+        <text id="2_2_3_female" need_translate="false" value="Jag har inga goda nyheter för dig... Vi pratade mer om mig än henne. Du vet, hon är fösiktig med sina ord väl."/>
+        <text id="2_2_3_male" need_translate="false" value="Jag har inga goda nyheter för dig... Vi pratade mer om mig än honom. Du vet, han är fösiktig med sina ord väl."/>
+        <text id="2_3_1_female" need_translate="false" value="Är jag en så stor karaktär? Jag hade inte äns chansen att starta en konversation innan hon frågade: "Vem skickade dig?"/>
+        <text id="2_3_1_male" need_translate="false" value="Är jag en så stor karaktär? Jag hade inte äns chansen att starta en konversation innan han frågade: "Vem skickade dig?"/>
+        <text id="2_3_2_female" need_translate="false" value="Jag beklagar, jag blev avsläjad.... Jag tror du kommer att få problem snart."/>
+        <text id="2_3_2_male" need_translate="false" value="Jag beklagar, jag blev avsläjad.... Jag tror du kommer att få problem snart."/>
+        <text id="2_3_3_female" need_translate="false" value="Jag beklagar, jag blev avsläjad.... Jag tror du kommer att få problem snart."/>
+        <text id="2_3_3_male" need_translate="false" value="Jag beklagar, jag blev avsläjad.... Jag tror du kommer att få problem snart."/>
+        <text id="3_1_1_female" need_translate="false" value="Det var inte svårt alls! Mina killar vet vad de gör."/>
+        <text id="3_1_1_male" need_translate="false" value="Det var inte svårt alls! Mina killar vet vad de gör."/>
+        <text id="3_1_2_female" need_translate="false" value="Jag spelade mina kort rätt... Jag tror det är det här du ville ha."/>
+        <text id="3_1_2_male" need_translate="false" value="Jag spelade mina kort rätt... Jag tror det är det här du ville ha."/>
+        <text id="3_1_3_female" need_translate="false" value="Det här är tillräckligt för att sitta i en hel del skit!"/>
+        <text id="3_1_3_male" need_translate="false" value="Det här är tillräckligt för att sitta i en hel del skit!"/>
+        <text id="3_2_1_female" need_translate="false" value="Jag hittade inget användbart för dig. Jag tror det är helt rent där"/>
+        <text id="3_2_1_male" need_translate="false" value="Jag hittade inget användbart för dig. Jag tror det är helt rent där"/>
+        <text id="3_2_2_female" need_translate="false" value="Jag hittade inget på henne. Jag kommer arbeta på mitt fall nästa gång istället"/>
+        <text id="3_2_2_male" need_translate="false" value="Jag hittade inget på honom. Jag kommer arbeta på mitt fall nästa gång istället"/>
+        <text id="3_2_3_female" need_translate="false" value="Killen jag skickade, för att titta in i ditt fall, han försvan. Så jag har inget att ge dig!"/>
+        <text id="3_2_3_male" need_translate="false" value="Killen jag skickade, för att titta in i ditt fall, han försvan. Så jag har inget att ge dig!"/>
+        <text id="3_3_1_female" need_translate="false" value="Jag var tvungen att böja på lagen i detta fall... Olyckligtvis. Desutom har jag fler tal klagomål på grund av detta"/>
+        <text id="3_3_1_male" need_translate="false" value="Jag var tvungen att böja på lagen i detta fall... Olyckligtvis. Desutom har jag fler tal klagomål på grund av detta"/>
+        <text id="3_3_2_female" need_translate="false" value="Det verkar som att hon är en riktig höjdare. De kom på mig, tyvär..."/>
+        <text id="3_3_2_male" need_translate="false" value="Det verkar som att han är en riktig höjdare. De kom på mig, tyvär..."/>
+        <text id="3_3_3_female" need_translate="false" value="En åklagae döljer hennes handlingar under mattan... Jag var tvungen att avsulta fallet. Jag skulle inte vilja på skynda detta men jag tror de kommer att slå tillbaka."/>
+        <text id="3_3_3_male" need_translate="false" value="En åklagae döljer hans handlingar under mattan... Jag var tvungen att avsulta fallet. Jag skulle inte vilja på skynda detta men jag tror de kommer att slå tillbaka."/>
         <text id="4_1_1_female" need_translate="true" value=""/>
         <text id="4_1_1_male" need_translate="true" value=""/>
         <text id="4_1_2_female" need_translate="true" value=""/>
